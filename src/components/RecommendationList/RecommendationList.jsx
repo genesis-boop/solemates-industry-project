@@ -1,10 +1,11 @@
 import allShoeData from "../../data/adjusted_shoes_data.json";
-import shoeImg from "../../assets/images/Recommendation_Page/ShoeNike.svg";
+import shoeImg from "../../assets/images/Recommendation_Page/Blissfeel_White.svg";
 import brandLogo from "../../assets/icons/ShoeBrandIcons/Icon_Nike.svg";
 import people from "../../assets/icons/ShoeBrandIcons/Recommendation_Icons/Icon_People.svg";
 import star from "../../assets/icons/ShoeBrandIcons/Recommendation_Icons/Icon_Large Star.svg";
 import comment from "../../assets/icons/ShoeBrandIcons/Recommendation_Icons/svgexport-23 2.svg";
 import shoeIcon from "../../assets/icons/MainProductFrame_Icons/Icon_Shoe.svg";
+import { Link } from "react-router-dom";
 
 import "./RecommendationList.scss";
 
@@ -15,7 +16,7 @@ const RecommendationList = ({ category }) => {
 
   return (
     <div className="recommendation-carousel">
-      {filteredShoes.map((shoe) => (
+      {filteredShoes.map((shoe, index) => (
         <div className="recommendation-carousel__item">
           <div className="recommendation-carousel__shoe">
             <img src={shoeIcon} alt="" />
@@ -23,7 +24,15 @@ const RecommendationList = ({ category }) => {
               Fit Score: {shoe.fit_score}{" "}
             </h3>
           </div>
-          <img src={shoeImg} alt={shoe.model} />
+          <Link to="/product">
+            <div className="recommendation-carousel__bg">
+              <img
+                className="recommendation-carousel__image"
+                src={shoeImg}
+                alt={shoe.model}
+              />
+            </div>
+          </Link>
           <div className="recommendation-carousel__info">
             <div className="recommendation-carousel__brand">
               <img
