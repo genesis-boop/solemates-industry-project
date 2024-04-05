@@ -9,4 +9,78 @@
     justify-content: center;
     border-radius: 12px;
     padding: 8px;
+
+    &__fit {
+        font-weight: 300;
+    }
+
+    &__shoe {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 8px;
+    }
+
+    &__name {
+        margin: 0;
+    }
+
+    &__info {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        gap: 8px;
+        margin-bottom: 8px;
+    }
+
+    &__brand {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 8px;
+    }
+
+    &__title {
+        margin: 0;
+    }
+
+    &__details {
+        display: flex;
+        flex-direction: row;
+        p {
+            margin: 0;
+            margin-right: 10px;
+        }
+    }
+
+    &__colors {
+        display: flex;
+        gap: 5px;
+    }
+
+    &__green {
+        width: 15px;
+        height: 15px;
+        background-color: green;
+        border-radius: 50%;
+    }
+    &__pink {
+        width: 15px;
+        height: 15px;
+        background-color: pink;
+        border-radius: 50%;
+    }
+    &__purple {
+        width: 15px;
+        height: 15px;
+        background-color: purple;
+        border-radius: 50%;
+    }
+    &__orange {
+        width: 15px;
+        height: 15px;
+        background-color: orange;
+        border-radius: 50%;
+    }
 }
