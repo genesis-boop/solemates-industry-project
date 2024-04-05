@@ -1,6 +1,9 @@
-const FootDataCard = () => {
+import './FootDataCard.scss';
+
+const FootDataCard = (props) => {
     return (
         <>
+        <img src=''/>
         </>
     )
 }

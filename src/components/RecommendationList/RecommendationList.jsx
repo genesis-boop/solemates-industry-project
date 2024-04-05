@@ -1,7 +1,9 @@
+import './RecommendationList.scss';
+
 const RecommendationList = () => {
     return (
         <>
-        
+
         </>
     )
 }
