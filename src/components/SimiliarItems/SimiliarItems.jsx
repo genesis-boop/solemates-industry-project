@@ -1,4 +1,4 @@
-import shoesImg from "../../assets/images/Product_Community/Similar-Items/Similiar.svg"
+import shoesImg from "../../assets/images/Product_Community/Similar-Items/similiar.svg"
 import "./SimiliarItems.scss"
 
 function SimiliarItems () {

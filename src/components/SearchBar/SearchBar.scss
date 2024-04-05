@@ -2,13 +2,14 @@
 .search-bar {
     display: flex;
     flex-direction: column;
-    width: 730px;
+    width: 100vw;
     
 
 .logo {
-    width: 150px;
+    width: 100px;
 }
  .search {
-    margin-left: -25px;
+    width: 99%;
+    margin-left: -15px;
 }
  }
