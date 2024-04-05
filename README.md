@@ -1,70 +1,73 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project Title
 
-## Available Scripts
+SoleMates
 
-In the project directory, you can run:
+## Overview
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Problem
 
-### `npm test`
+We all know the struggle. You find a shoe online, only to discover it's too narrow, too wide, or just
+plain uncomfortable. Generic sizing charts simply don't account for the beautiful variations in our
+feet.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### User Profile
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Who will use Solemates:**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+-   **Anyone Frustrated with Ill-Fitting Shoes:**  This is your core market. People tired of blisters, pinched toes, and general foot discomfort due to sizing issues are prime candidates.
+-   **Fashion Enthusiasts with Unique Feet:**  Those who love shoes but have wide/narrow feet, high arches, or other features making standard sizing difficult.
+-   **Athletes and Active Individuals:**  People who need shoes tailored to specific performance requirements alongside a proper fit.
+-   **Busy Individuals:**  Anyone who wants to save time and hassle when shoe shopping, preferring a streamlined process.
+-   **People with Foot Conditions:**  While not a primary focus, Solemates could potentially be helpful for those with bunions, plantar fasciitis, etc., as the detailed data may guide them towards comfort-focused brands
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Features
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+-   scan foot in AR
+-   suggest shoe for your foot specifically
+-   
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Implementation
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Tech Stack
 
-## Learn More
+-   React
+-   TypeScript/Javascript
+-   MySQL
+-   Express
+-   react
+-   react-router
+-   axios
+-   cors
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### APIs
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+no external api. we are using a json object.
 
-### Code Splitting
+### Data
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Sitemap
 
-### Making a Progressive Web App
+-   Landing Page
+-   Product Page
+-   Cam
+-   take a pic page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Endpoints
 
-### Advanced Configuration
+- Product Page
+- Landing Page
+- 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Roadmap
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Nice-to-haves
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
