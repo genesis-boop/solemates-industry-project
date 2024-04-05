@@ -28,7 +28,7 @@ const RecommendationList = ({ category }) => {
             <div className="recommendation-carousel__bg">
               <img
                 className="recommendation-carousel__image"
-                src={shoeImg}
+                src={shoe.shoe_image}
                 alt={shoe.model}
               />
             </div>
