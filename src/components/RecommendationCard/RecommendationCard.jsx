@@ -1,3 +1,5 @@
+import './RecommendationCard.scss';
+
 const RecommendationCard = () => {
 
 }

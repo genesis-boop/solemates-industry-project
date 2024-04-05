@@ -1,0 +1,14 @@
+.footcard {
+    width: 100%;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    &__labellist {
+        display: flex;
+        width: 100%;
+        justify-content: space-evenly;
+    }
+    &__model{
+        margin-top: 1rem;
+        width: 80%;
+    }
+}

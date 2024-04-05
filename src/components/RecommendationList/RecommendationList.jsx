@@ -1,4 +1,7 @@
+import './RecommendationList.scss';
+
 const RecommendationList = () => {
+
   return (
     <div className="recommendation-carousel">
       <div className="recommendation-carousel__item">
