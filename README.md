@@ -35,9 +35,6 @@ feet.
 
 ### Tech Stack
 
-
-List technologies that will be used in your app, including any libraries to save time or provide more functionality. Be sure to research any potential limitations.
-
 -   React
 -   TypeScript/Javascript
 -   MySQL
@@ -49,7 +46,11 @@ List technologies that will be used in your app, including any libraries to save
 
 ### APIs
 
+no external api. we are using a json object.
+
 ### Data
+
+
 
 ### Sitemap
 
