@@ -1,0 +1,4106 @@
+[
+    {
+        "shoe_id": "shoe_1",
+        "shoe_type_category": "1",
+        "fit_score": "92%",
+        "length": 28.4,
+        "width": 10.6,
+        "instep_height": 7.3,
+        "arch_height": 2.6,
+        "heel_width": 6.1,
+        "score": "4.8",
+        "community_number": 274,
+        "comment_number": 75,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_1",
+                "user_name": "Alex",
+                "foot_type_category": "1",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.6"
+            },
+            {
+                "review_id": "review_2",
+                "user_name": "Charlie",
+                "foot_type_category": "1",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.6"
+            },
+            {
+                "review_id": "review_3",
+                "user_name": "Riley",
+                "foot_type_category": "1",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.3"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_2",
+        "shoe_type_category": "1",
+        "fit_score": "91%",
+        "length": 28.0,
+        "width": 11.2,
+        "instep_height": 6.8,
+        "arch_height": 3.1,
+        "heel_width": 8.1,
+        "score": "4.5",
+        "community_number": 827,
+        "comment_number": 85,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_4",
+                "user_name": "Charlie",
+                "foot_type_category": "1",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_5",
+                "user_name": "Morgan",
+                "foot_type_category": "1",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_6",
+                "user_name": "Riley",
+                "foot_type_category": "1",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.9"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_3",
+        "shoe_type_category": "1",
+        "fit_score": "92%",
+        "length": 23.1,
+        "width": 8.4,
+        "instep_height": 7.1,
+        "arch_height": 1.7,
+        "heel_width": 6.3,
+        "score": "4.6",
+        "community_number": 865,
+        "comment_number": 64,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_7",
+                "user_name": "Jordan",
+                "foot_type_category": "1",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_8",
+                "user_name": "Taylor",
+                "foot_type_category": "1",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_9",
+                "user_name": "Morgan",
+                "foot_type_category": "1",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "5.0"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_4",
+        "shoe_type_category": "2",
+        "fit_score": "94%",
+        "length": 27.3,
+        "width": 10.1,
+        "instep_height": 7.2,
+        "arch_height": 2.5,
+        "heel_width": 7.9,
+        "score": "4.6",
+        "community_number": 610,
+        "comment_number": 18,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_10",
+                "user_name": "Alex",
+                "foot_type_category": "2",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.6"
+            },
+            {
+                "review_id": "review_11",
+                "user_name": "Charlie",
+                "foot_type_category": "2",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_12",
+                "user_name": "Alex",
+                "foot_type_category": "2",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.9"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_5",
+        "shoe_type_category": "2",
+        "fit_score": "99%",
+        "length": 22.3,
+        "width": 13.5,
+        "instep_height": 6.5,
+        "arch_height": 3.8,
+        "heel_width": 8.6,
+        "score": "4.5",
+        "community_number": 755,
+        "comment_number": 56,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_13",
+                "user_name": "Jamie",
+                "foot_type_category": "2",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.3"
+            },
+            {
+                "review_id": "review_14",
+                "user_name": "Taylor",
+                "foot_type_category": "2",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_15",
+                "user_name": "Jordan",
+                "foot_type_category": "2",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.4"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_6",
+        "shoe_type_category": "2",
+        "fit_score": "94%",
+        "length": 26.0,
+        "width": 9.4,
+        "instep_height": 6.4,
+        "arch_height": 3.7,
+        "heel_width": 6.1,
+        "score": "4.1",
+        "community_number": 249,
+        "comment_number": 61,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_16",
+                "user_name": "Morgan",
+                "foot_type_category": "2",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_17",
+                "user_name": "Riley",
+                "foot_type_category": "2",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_18",
+                "user_name": "Alex",
+                "foot_type_category": "2",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.5"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_7",
+        "shoe_type_category": "3",
+        "fit_score": "98%",
+        "length": 29.9,
+        "width": 11.7,
+        "instep_height": 5.2,
+        "arch_height": 4.2,
+        "heel_width": 6.4,
+        "score": "4.3",
+        "community_number": 747,
+        "comment_number": 91,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_19",
+                "user_name": "Morgan",
+                "foot_type_category": "3",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.3"
+            },
+            {
+                "review_id": "review_20",
+                "user_name": "Alex",
+                "foot_type_category": "3",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_21",
+                "user_name": "Taylor",
+                "foot_type_category": "3",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.1"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_8",
+        "shoe_type_category": "3",
+        "fit_score": "93%",
+        "length": 27.2,
+        "width": 13.4,
+        "instep_height": 7.7,
+        "arch_height": 4.9,
+        "heel_width": 9.7,
+        "score": "4.1",
+        "community_number": 404,
+        "comment_number": 71,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_22",
+                "user_name": "Jordan",
+                "foot_type_category": "3",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.6"
+            },
+            {
+                "review_id": "review_23",
+                "user_name": "Jordan",
+                "foot_type_category": "3",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_24",
+                "user_name": "Casey",
+                "foot_type_category": "3",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.9"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_9",
+        "shoe_type_category": "3",
+        "fit_score": "97%",
+        "length": 24.2,
+        "width": 13.3,
+        "instep_height": 7.0,
+        "arch_height": 2.5,
+        "heel_width": 7.0,
+        "score": "4.7",
+        "community_number": 490,
+        "comment_number": 99,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#33FF57",
+        "review": [
+            {
+                "review_id": "review_25",
+                "user_name": "Jordan",
+                "foot_type_category": "3",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_26",
+                "user_name": "Jordan",
+                "foot_type_category": "3",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_27",
+                "user_name": "Riley",
+                "foot_type_category": "3",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.3"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_10",
+        "shoe_type_category": "4",
+        "fit_score": "91%",
+        "length": 29.3,
+        "width": 13.3,
+        "instep_height": 7.3,
+        "arch_height": 1.3,
+        "heel_width": 7.0,
+        "score": "4.4",
+        "community_number": 311,
+        "comment_number": 36,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_28",
+                "user_name": "Alex",
+                "foot_type_category": "4",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_29",
+                "user_name": "Taylor",
+                "foot_type_category": "4",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_30",
+                "user_name": "Jamie",
+                "foot_type_category": "4",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.4"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_11",
+        "shoe_type_category": "4",
+        "fit_score": "91%",
+        "length": 27.7,
+        "width": 11.7,
+        "instep_height": 5.3,
+        "arch_height": 1.9,
+        "heel_width": 8.4,
+        "score": "4.3",
+        "community_number": 690,
+        "comment_number": 20,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_31",
+                "user_name": "Charlie",
+                "foot_type_category": "4",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.3"
+            },
+            {
+                "review_id": "review_32",
+                "user_name": "Riley",
+                "foot_type_category": "4",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_33",
+                "user_name": "Jordan",
+                "foot_type_category": "4",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.2"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_12",
+        "shoe_type_category": "4",
+        "fit_score": "93%",
+        "length": 28.9,
+        "width": 8.3,
+        "instep_height": 5.5,
+        "arch_height": 4.3,
+        "heel_width": 7.8,
+        "score": "4.0",
+        "community_number": 885,
+        "comment_number": 73,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_34",
+                "user_name": "Taylor",
+                "foot_type_category": "4",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_35",
+                "user_name": "Charlie",
+                "foot_type_category": "4",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_36",
+                "user_name": "Alex",
+                "foot_type_category": "4",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.9"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_13",
+        "shoe_type_category": "5",
+        "fit_score": "94%",
+        "length": 29.5,
+        "width": 8.9,
+        "instep_height": 5.8,
+        "arch_height": 2.7,
+        "heel_width": 9.5,
+        "score": "4.6",
+        "community_number": 986,
+        "comment_number": 53,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_37",
+                "user_name": "Charlie",
+                "foot_type_category": "5",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_38",
+                "user_name": "Charlie",
+                "foot_type_category": "5",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_39",
+                "user_name": "Charlie",
+                "foot_type_category": "5",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.2"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_14",
+        "shoe_type_category": "5",
+        "fit_score": "95%",
+        "length": 28.4,
+        "width": 9.0,
+        "instep_height": 7.3,
+        "arch_height": 2.0,
+        "heel_width": 7.1,
+        "score": "4.9",
+        "community_number": 979,
+        "comment_number": 40,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_40",
+                "user_name": "Charlie",
+                "foot_type_category": "5",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.6"
+            },
+            {
+                "review_id": "review_41",
+                "user_name": "Morgan",
+                "foot_type_category": "5",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_42",
+                "user_name": "Riley",
+                "foot_type_category": "5",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.1"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_15",
+        "shoe_type_category": "5",
+        "fit_score": "92%",
+        "length": 22.5,
+        "width": 8.4,
+        "instep_height": 5.8,
+        "arch_height": 4.2,
+        "heel_width": 6.1,
+        "score": "4.7",
+        "community_number": 366,
+        "comment_number": 30,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_43",
+                "user_name": "Riley",
+                "foot_type_category": "5",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_44",
+                "user_name": "Riley",
+                "foot_type_category": "5",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_45",
+                "user_name": "Jordan",
+                "foot_type_category": "5",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_16",
+        "shoe_type_category": "6",
+        "fit_score": "95%",
+        "length": 26.5,
+        "width": 8.6,
+        "instep_height": 5.3,
+        "arch_height": 3.7,
+        "heel_width": 6.4,
+        "score": "4.4",
+        "community_number": 510,
+        "comment_number": 80,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_46",
+                "user_name": "Jordan",
+                "foot_type_category": "6",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_47",
+                "user_name": "Riley",
+                "foot_type_category": "6",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_48",
+                "user_name": "Alex",
+                "foot_type_category": "6",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.8"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_17",
+        "shoe_type_category": "6",
+        "fit_score": "93%",
+        "length": 25.6,
+        "width": 10.1,
+        "instep_height": 5.3,
+        "arch_height": 2.5,
+        "heel_width": 6.2,
+        "score": "4.1",
+        "community_number": 273,
+        "comment_number": 81,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_49",
+                "user_name": "Taylor",
+                "foot_type_category": "6",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "5.0"
+            },
+            {
+                "review_id": "review_50",
+                "user_name": "Morgan",
+                "foot_type_category": "6",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_51",
+                "user_name": "Charlie",
+                "foot_type_category": "6",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.5"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_18",
+        "shoe_type_category": "6",
+        "fit_score": "99%",
+        "length": 25.1,
+        "width": 12.4,
+        "instep_height": 7.0,
+        "arch_height": 1.8,
+        "heel_width": 8.6,
+        "score": "4.7",
+        "community_number": 501,
+        "comment_number": 95,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_52",
+                "user_name": "Riley",
+                "foot_type_category": "6",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_53",
+                "user_name": "Riley",
+                "foot_type_category": "6",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_54",
+                "user_name": "Charlie",
+                "foot_type_category": "6",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.8"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_19",
+        "shoe_type_category": "7",
+        "fit_score": "100%",
+        "length": 24.1,
+        "width": 12.5,
+        "instep_height": 5.7,
+        "arch_height": 3.5,
+        "heel_width": 9.0,
+        "score": "4.5",
+        "community_number": 806,
+        "comment_number": 19,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_55",
+                "user_name": "Morgan",
+                "foot_type_category": "7",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_56",
+                "user_name": "Jamie",
+                "foot_type_category": "7",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_57",
+                "user_name": "Alex",
+                "foot_type_category": "7",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.4"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_20",
+        "shoe_type_category": "7",
+        "fit_score": "90%",
+        "length": 22.8,
+        "width": 9.3,
+        "instep_height": 5.8,
+        "arch_height": 2.6,
+        "heel_width": 8.3,
+        "score": "4.6",
+        "community_number": 971,
+        "comment_number": 89,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#33FF57",
+        "review": [
+            {
+                "review_id": "review_58",
+                "user_name": "Riley",
+                "foot_type_category": "7",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_59",
+                "user_name": "Casey",
+                "foot_type_category": "7",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_60",
+                "user_name": "Alex",
+                "foot_type_category": "7",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_21",
+        "shoe_type_category": "7",
+        "fit_score": "92%",
+        "length": 25.0,
+        "width": 10.0,
+        "instep_height": 6.3,
+        "arch_height": 2.8,
+        "heel_width": 8.2,
+        "score": "4.2",
+        "community_number": 153,
+        "comment_number": 12,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_61",
+                "user_name": "Jamie",
+                "foot_type_category": "7",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_62",
+                "user_name": "Charlie",
+                "foot_type_category": "7",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_63",
+                "user_name": "Casey",
+                "foot_type_category": "7",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.5"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_22",
+        "shoe_type_category": "8",
+        "fit_score": "98%",
+        "length": 29.3,
+        "width": 10.6,
+        "instep_height": 6.2,
+        "arch_height": 1.3,
+        "heel_width": 6.4,
+        "score": "4.8",
+        "community_number": 155,
+        "comment_number": 22,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#33FF57",
+        "review": [
+            {
+                "review_id": "review_64",
+                "user_name": "Riley",
+                "foot_type_category": "8",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_65",
+                "user_name": "Jamie",
+                "foot_type_category": "8",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_66",
+                "user_name": "Casey",
+                "foot_type_category": "8",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.7"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_23",
+        "shoe_type_category": "8",
+        "fit_score": "96%",
+        "length": 28.4,
+        "width": 9.4,
+        "instep_height": 7.6,
+        "arch_height": 1.4,
+        "heel_width": 6.6,
+        "score": "4.7",
+        "community_number": 129,
+        "comment_number": 72,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_67",
+                "user_name": "Charlie",
+                "foot_type_category": "8",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.0"
+            },
+            {
+                "review_id": "review_68",
+                "user_name": "Charlie",
+                "foot_type_category": "8",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_69",
+                "user_name": "Alex",
+                "foot_type_category": "8",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.5"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_24",
+        "shoe_type_category": "8",
+        "fit_score": "98%",
+        "length": 23.7,
+        "width": 9.0,
+        "instep_height": 7.5,
+        "arch_height": 3.9,
+        "heel_width": 7.6,
+        "score": "4.5",
+        "community_number": 285,
+        "comment_number": 28,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_70",
+                "user_name": "Jamie",
+                "foot_type_category": "8",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_71",
+                "user_name": "Casey",
+                "foot_type_category": "8",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_72",
+                "user_name": "Riley",
+                "foot_type_category": "8",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.9"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_25",
+        "shoe_type_category": "9",
+        "fit_score": "99%",
+        "length": 22.3,
+        "width": 12.8,
+        "instep_height": 5.6,
+        "arch_height": 1.6,
+        "heel_width": 9.6,
+        "score": "4.3",
+        "community_number": 638,
+        "comment_number": 88,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_73",
+                "user_name": "Jordan",
+                "foot_type_category": "9",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_74",
+                "user_name": "Taylor",
+                "foot_type_category": "9",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_75",
+                "user_name": "Morgan",
+                "foot_type_category": "9",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.3"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_26",
+        "shoe_type_category": "9",
+        "fit_score": "94%",
+        "length": 29.7,
+        "width": 10.7,
+        "instep_height": 7.0,
+        "arch_height": 2.1,
+        "heel_width": 7.9,
+        "score": "4.9",
+        "community_number": 815,
+        "comment_number": 23,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_76",
+                "user_name": "Jamie",
+                "foot_type_category": "9",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "5.0"
+            },
+            {
+                "review_id": "review_77",
+                "user_name": "Riley",
+                "foot_type_category": "9",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_78",
+                "user_name": "Jordan",
+                "foot_type_category": "9",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.4"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_27",
+        "shoe_type_category": "9",
+        "fit_score": "100%",
+        "length": 24.3,
+        "width": 8.8,
+        "instep_height": 6.0,
+        "arch_height": 4.0,
+        "heel_width": 8.4,
+        "score": "4.2",
+        "community_number": 602,
+        "comment_number": 29,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#33FF57",
+        "review": [
+            {
+                "review_id": "review_79",
+                "user_name": "Riley",
+                "foot_type_category": "9",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_80",
+                "user_name": "Jordan",
+                "foot_type_category": "9",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_81",
+                "user_name": "Morgan",
+                "foot_type_category": "9",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "5.0"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_28",
+        "shoe_type_category": "10",
+        "fit_score": "98%",
+        "length": 27.9,
+        "width": 8.6,
+        "instep_height": 6.1,
+        "arch_height": 4.2,
+        "heel_width": 6.5,
+        "score": "4.5",
+        "community_number": 768,
+        "comment_number": 97,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_82",
+                "user_name": "Taylor",
+                "foot_type_category": "10",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_83",
+                "user_name": "Morgan",
+                "foot_type_category": "10",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_84",
+                "user_name": "Jamie",
+                "foot_type_category": "10",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.1"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_29",
+        "shoe_type_category": "10",
+        "fit_score": "99%",
+        "length": 24.3,
+        "width": 11.2,
+        "instep_height": 7.8,
+        "arch_height": 4.1,
+        "heel_width": 6.3,
+        "score": "4.9",
+        "community_number": 906,
+        "comment_number": 26,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_85",
+                "user_name": "Jordan",
+                "foot_type_category": "10",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.0"
+            },
+            {
+                "review_id": "review_86",
+                "user_name": "Casey",
+                "foot_type_category": "10",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_87",
+                "user_name": "Alex",
+                "foot_type_category": "10",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.1"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_30",
+        "shoe_type_category": "10",
+        "fit_score": "96%",
+        "length": 27.2,
+        "width": 13.6,
+        "instep_height": 7.1,
+        "arch_height": 4.5,
+        "heel_width": 8.5,
+        "score": "4.9",
+        "community_number": 704,
+        "comment_number": 31,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_88",
+                "user_name": "Taylor",
+                "foot_type_category": "10",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_89",
+                "user_name": "Jamie",
+                "foot_type_category": "10",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_90",
+                "user_name": "Jamie",
+                "foot_type_category": "10",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.3"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_31",
+        "shoe_type_category": "11",
+        "fit_score": "100%",
+        "length": 22.1,
+        "width": 11.5,
+        "instep_height": 6.7,
+        "arch_height": 1.2,
+        "heel_width": 7.8,
+        "score": "4.1",
+        "community_number": 666,
+        "comment_number": 82,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_91",
+                "user_name": "Charlie",
+                "foot_type_category": "11",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.3"
+            },
+            {
+                "review_id": "review_92",
+                "user_name": "Alex",
+                "foot_type_category": "11",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.0"
+            },
+            {
+                "review_id": "review_93",
+                "user_name": "Casey",
+                "foot_type_category": "11",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_32",
+        "shoe_type_category": "11",
+        "fit_score": "93%",
+        "length": 29.0,
+        "width": 12.7,
+        "instep_height": 6.7,
+        "arch_height": 1.6,
+        "heel_width": 6.5,
+        "score": "4.5",
+        "community_number": 344,
+        "comment_number": 64,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_94",
+                "user_name": "Riley",
+                "foot_type_category": "11",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_95",
+                "user_name": "Jamie",
+                "foot_type_category": "11",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.0"
+            },
+            {
+                "review_id": "review_96",
+                "user_name": "Casey",
+                "foot_type_category": "11",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.8"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_33",
+        "shoe_type_category": "11",
+        "fit_score": "90%",
+        "length": 25.0,
+        "width": 9.4,
+        "instep_height": 7.2,
+        "arch_height": 1.7,
+        "heel_width": 7.5,
+        "score": "4.9",
+        "community_number": 434,
+        "comment_number": 27,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#33FF57",
+        "review": [
+            {
+                "review_id": "review_97",
+                "user_name": "Jamie",
+                "foot_type_category": "11",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.0"
+            },
+            {
+                "review_id": "review_98",
+                "user_name": "Charlie",
+                "foot_type_category": "11",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_99",
+                "user_name": "Taylor",
+                "foot_type_category": "11",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.8"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_34",
+        "shoe_type_category": "12",
+        "fit_score": "90%",
+        "length": 23.6,
+        "width": 8.5,
+        "instep_height": 6.3,
+        "arch_height": 1.8,
+        "heel_width": 9.6,
+        "score": "4.4",
+        "community_number": 464,
+        "comment_number": 95,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_100",
+                "user_name": "Taylor",
+                "foot_type_category": "12",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_101",
+                "user_name": "Charlie",
+                "foot_type_category": "12",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_102",
+                "user_name": "Jamie",
+                "foot_type_category": "12",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.9"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_35",
+        "shoe_type_category": "12",
+        "fit_score": "91%",
+        "length": 23.1,
+        "width": 12.0,
+        "instep_height": 6.4,
+        "arch_height": 2.2,
+        "heel_width": 6.5,
+        "score": "4.3",
+        "community_number": 869,
+        "comment_number": 94,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#33FF57",
+        "review": [
+            {
+                "review_id": "review_103",
+                "user_name": "Charlie",
+                "foot_type_category": "12",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_104",
+                "user_name": "Charlie",
+                "foot_type_category": "12",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_105",
+                "user_name": "Riley",
+                "foot_type_category": "12",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.7"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_36",
+        "shoe_type_category": "12",
+        "fit_score": "96%",
+        "length": 22.3,
+        "width": 10.9,
+        "instep_height": 7.8,
+        "arch_height": 2.8,
+        "heel_width": 8.1,
+        "score": "4.6",
+        "community_number": 811,
+        "comment_number": 67,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_106",
+                "user_name": "Riley",
+                "foot_type_category": "12",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_107",
+                "user_name": "Morgan",
+                "foot_type_category": "12",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_108",
+                "user_name": "Riley",
+                "foot_type_category": "12",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.7"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_37",
+        "shoe_type_category": "13",
+        "fit_score": "97%",
+        "length": 22.4,
+        "width": 11.1,
+        "instep_height": 6.2,
+        "arch_height": 1.1,
+        "heel_width": 8.0,
+        "score": "4.5",
+        "community_number": 290,
+        "comment_number": 45,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_109",
+                "user_name": "Morgan",
+                "foot_type_category": "13",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_110",
+                "user_name": "Morgan",
+                "foot_type_category": "13",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_111",
+                "user_name": "Charlie",
+                "foot_type_category": "13",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_38",
+        "shoe_type_category": "13",
+        "fit_score": "100%",
+        "length": 28.7,
+        "width": 14.0,
+        "instep_height": 5.5,
+        "arch_height": 2.1,
+        "heel_width": 8.1,
+        "score": "4.4",
+        "community_number": 919,
+        "comment_number": 59,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_112",
+                "user_name": "Taylor",
+                "foot_type_category": "13",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.0"
+            },
+            {
+                "review_id": "review_113",
+                "user_name": "Alex",
+                "foot_type_category": "13",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.6"
+            },
+            {
+                "review_id": "review_114",
+                "user_name": "Jamie",
+                "foot_type_category": "13",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_39",
+        "shoe_type_category": "13",
+        "fit_score": "94%",
+        "length": 27.2,
+        "width": 9.4,
+        "instep_height": 5.5,
+        "arch_height": 2.1,
+        "heel_width": 6.8,
+        "score": "4.4",
+        "community_number": 832,
+        "comment_number": 95,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_115",
+                "user_name": "Riley",
+                "foot_type_category": "13",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_116",
+                "user_name": "Morgan",
+                "foot_type_category": "13",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_117",
+                "user_name": "Jordan",
+                "foot_type_category": "13",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.0"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_40",
+        "shoe_type_category": "14",
+        "fit_score": "92%",
+        "length": 29.7,
+        "width": 9.8,
+        "instep_height": 5.9,
+        "arch_height": 4.4,
+        "heel_width": 7.4,
+        "score": "4.8",
+        "community_number": 355,
+        "comment_number": 30,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#33FF57",
+        "review": [
+            {
+                "review_id": "review_118",
+                "user_name": "Charlie",
+                "foot_type_category": "14",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_119",
+                "user_name": "Charlie",
+                "foot_type_category": "14",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_120",
+                "user_name": "Taylor",
+                "foot_type_category": "14",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.3"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_41",
+        "shoe_type_category": "14",
+        "fit_score": "93%",
+        "length": 26.8,
+        "width": 12.4,
+        "instep_height": 7.6,
+        "arch_height": 3.3,
+        "heel_width": 8.1,
+        "score": "4.0",
+        "community_number": 510,
+        "comment_number": 76,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_121",
+                "user_name": "Charlie",
+                "foot_type_category": "14",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_122",
+                "user_name": "Jamie",
+                "foot_type_category": "14",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_123",
+                "user_name": "Charlie",
+                "foot_type_category": "14",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.5"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_42",
+        "shoe_type_category": "14",
+        "fit_score": "91%",
+        "length": 25.9,
+        "width": 8.9,
+        "instep_height": 5.9,
+        "arch_height": 1.1,
+        "heel_width": 9.3,
+        "score": "4.2",
+        "community_number": 735,
+        "comment_number": 100,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#33FF57",
+        "review": [
+            {
+                "review_id": "review_124",
+                "user_name": "Morgan",
+                "foot_type_category": "14",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_125",
+                "user_name": "Riley",
+                "foot_type_category": "14",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.3"
+            },
+            {
+                "review_id": "review_126",
+                "user_name": "Jordan",
+                "foot_type_category": "14",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.0"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_43",
+        "shoe_type_category": "15",
+        "fit_score": "92%",
+        "length": 28.3,
+        "width": 8.1,
+        "instep_height": 6.6,
+        "arch_height": 1.7,
+        "heel_width": 8.6,
+        "score": "4.8",
+        "community_number": 828,
+        "comment_number": 76,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_127",
+                "user_name": "Morgan",
+                "foot_type_category": "15",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_128",
+                "user_name": "Jordan",
+                "foot_type_category": "15",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_129",
+                "user_name": "Morgan",
+                "foot_type_category": "15",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.2"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_44",
+        "shoe_type_category": "15",
+        "fit_score": "100%",
+        "length": 22.1,
+        "width": 14.0,
+        "instep_height": 5.6,
+        "arch_height": 1.5,
+        "heel_width": 7.3,
+        "score": "4.0",
+        "community_number": 488,
+        "comment_number": 12,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_130",
+                "user_name": "Jordan",
+                "foot_type_category": "15",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_131",
+                "user_name": "Charlie",
+                "foot_type_category": "15",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.0"
+            },
+            {
+                "review_id": "review_132",
+                "user_name": "Riley",
+                "foot_type_category": "15",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.5"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_45",
+        "shoe_type_category": "15",
+        "fit_score": "95%",
+        "length": 26.0,
+        "width": 10.7,
+        "instep_height": 7.4,
+        "arch_height": 1.7,
+        "heel_width": 8.8,
+        "score": "4.3",
+        "community_number": 553,
+        "comment_number": 31,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_133",
+                "user_name": "Morgan",
+                "foot_type_category": "15",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_134",
+                "user_name": "Morgan",
+                "foot_type_category": "15",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_135",
+                "user_name": "Charlie",
+                "foot_type_category": "15",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.5"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_46",
+        "shoe_type_category": "16",
+        "fit_score": "93%",
+        "length": 25.0,
+        "width": 9.5,
+        "instep_height": 6.8,
+        "arch_height": 1.0,
+        "heel_width": 9.6,
+        "score": "4.5",
+        "community_number": 671,
+        "comment_number": 72,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_136",
+                "user_name": "Casey",
+                "foot_type_category": "16",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_137",
+                "user_name": "Casey",
+                "foot_type_category": "16",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_138",
+                "user_name": "Jordan",
+                "foot_type_category": "16",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_47",
+        "shoe_type_category": "16",
+        "fit_score": "92%",
+        "length": 24.7,
+        "width": 9.5,
+        "instep_height": 5.1,
+        "arch_height": 3.3,
+        "heel_width": 7.6,
+        "score": "4.7",
+        "community_number": 140,
+        "comment_number": 37,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_139",
+                "user_name": "Casey",
+                "foot_type_category": "16",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_140",
+                "user_name": "Jordan",
+                "foot_type_category": "16",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_141",
+                "user_name": "Morgan",
+                "foot_type_category": "16",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.5"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_48",
+        "shoe_type_category": "16",
+        "fit_score": "92%",
+        "length": 22.5,
+        "width": 11.6,
+        "instep_height": 6.0,
+        "arch_height": 1.1,
+        "heel_width": 8.5,
+        "score": "4.8",
+        "community_number": 717,
+        "comment_number": 87,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#33FF57",
+        "review": [
+            {
+                "review_id": "review_142",
+                "user_name": "Jordan",
+                "foot_type_category": "16",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_143",
+                "user_name": "Jordan",
+                "foot_type_category": "16",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_144",
+                "user_name": "Charlie",
+                "foot_type_category": "16",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.2"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_49",
+        "shoe_type_category": "17",
+        "fit_score": "94%",
+        "length": 22.2,
+        "width": 10.5,
+        "instep_height": 7.9,
+        "arch_height": 3.6,
+        "heel_width": 9.7,
+        "score": "4.1",
+        "community_number": 238,
+        "comment_number": 63,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_145",
+                "user_name": "Taylor",
+                "foot_type_category": "17",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "5.0"
+            },
+            {
+                "review_id": "review_146",
+                "user_name": "Riley",
+                "foot_type_category": "17",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_147",
+                "user_name": "Taylor",
+                "foot_type_category": "17",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.2"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_50",
+        "shoe_type_category": "17",
+        "fit_score": "96%",
+        "length": 24.9,
+        "width": 8.9,
+        "instep_height": 7.4,
+        "arch_height": 2.1,
+        "heel_width": 8.1,
+        "score": "4.4",
+        "community_number": 947,
+        "comment_number": 74,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#33FF57",
+        "review": [
+            {
+                "review_id": "review_148",
+                "user_name": "Casey",
+                "foot_type_category": "17",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_149",
+                "user_name": "Taylor",
+                "foot_type_category": "17",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_150",
+                "user_name": "Jordan",
+                "foot_type_category": "17",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.1"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_51",
+        "shoe_type_category": "17",
+        "fit_score": "99%",
+        "length": 22.5,
+        "width": 9.4,
+        "instep_height": 5.1,
+        "arch_height": 1.9,
+        "heel_width": 8.3,
+        "score": "4.8",
+        "community_number": 579,
+        "comment_number": 44,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_151",
+                "user_name": "Morgan",
+                "foot_type_category": "17",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_152",
+                "user_name": "Jamie",
+                "foot_type_category": "17",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_153",
+                "user_name": "Charlie",
+                "foot_type_category": "17",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.0"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_52",
+        "shoe_type_category": "18",
+        "fit_score": "98%",
+        "length": 25.2,
+        "width": 9.5,
+        "instep_height": 7.0,
+        "arch_height": 2.1,
+        "heel_width": 9.6,
+        "score": "4.5",
+        "community_number": 854,
+        "comment_number": 31,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_154",
+                "user_name": "Jamie",
+                "foot_type_category": "18",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "5.0"
+            },
+            {
+                "review_id": "review_155",
+                "user_name": "Jordan",
+                "foot_type_category": "18",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_156",
+                "user_name": "Riley",
+                "foot_type_category": "18",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.3"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_53",
+        "shoe_type_category": "18",
+        "fit_score": "99%",
+        "length": 29.9,
+        "width": 12.8,
+        "instep_height": 5.3,
+        "arch_height": 2.0,
+        "heel_width": 9.1,
+        "score": "4.8",
+        "community_number": 609,
+        "comment_number": 24,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#33FF57",
+        "review": [
+            {
+                "review_id": "review_157",
+                "user_name": "Jamie",
+                "foot_type_category": "18",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_158",
+                "user_name": "Riley",
+                "foot_type_category": "18",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_159",
+                "user_name": "Charlie",
+                "foot_type_category": "18",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.1"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_54",
+        "shoe_type_category": "18",
+        "fit_score": "90%",
+        "length": 26.9,
+        "width": 8.8,
+        "instep_height": 6.5,
+        "arch_height": 3.6,
+        "heel_width": 6.6,
+        "score": "4.5",
+        "community_number": 478,
+        "comment_number": 89,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_160",
+                "user_name": "Jamie",
+                "foot_type_category": "18",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_161",
+                "user_name": "Casey",
+                "foot_type_category": "18",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_162",
+                "user_name": "Morgan",
+                "foot_type_category": "18",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.9"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_55",
+        "shoe_type_category": "19",
+        "fit_score": "94%",
+        "length": 25.4,
+        "width": 10.9,
+        "instep_height": 5.2,
+        "arch_height": 3.6,
+        "heel_width": 7.4,
+        "score": "4.8",
+        "community_number": 378,
+        "comment_number": 95,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_163",
+                "user_name": "Morgan",
+                "foot_type_category": "19",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.0"
+            },
+            {
+                "review_id": "review_164",
+                "user_name": "Alex",
+                "foot_type_category": "19",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.3"
+            },
+            {
+                "review_id": "review_165",
+                "user_name": "Jordan",
+                "foot_type_category": "19",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.9"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_56",
+        "shoe_type_category": "19",
+        "fit_score": "99%",
+        "length": 23.5,
+        "width": 12.8,
+        "instep_height": 6.2,
+        "arch_height": 2.9,
+        "heel_width": 7.5,
+        "score": "4.5",
+        "community_number": 620,
+        "comment_number": 88,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_166",
+                "user_name": "Taylor",
+                "foot_type_category": "19",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_167",
+                "user_name": "Charlie",
+                "foot_type_category": "19",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.6"
+            },
+            {
+                "review_id": "review_168",
+                "user_name": "Jordan",
+                "foot_type_category": "19",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.0"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_57",
+        "shoe_type_category": "19",
+        "fit_score": "99%",
+        "length": 22.5,
+        "width": 9.8,
+        "instep_height": 7.8,
+        "arch_height": 3.4,
+        "heel_width": 7.7,
+        "score": "4.1",
+        "community_number": 698,
+        "comment_number": 31,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_169",
+                "user_name": "Alex",
+                "foot_type_category": "19",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_170",
+                "user_name": "Morgan",
+                "foot_type_category": "19",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_171",
+                "user_name": "Jordan",
+                "foot_type_category": "19",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.0"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_58",
+        "shoe_type_category": "20",
+        "fit_score": "96%",
+        "length": 26.0,
+        "width": 11.3,
+        "instep_height": 6.8,
+        "arch_height": 2.1,
+        "heel_width": 8.2,
+        "score": "4.0",
+        "community_number": 635,
+        "comment_number": 22,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_172",
+                "user_name": "Taylor",
+                "foot_type_category": "20",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.3"
+            },
+            {
+                "review_id": "review_173",
+                "user_name": "Morgan",
+                "foot_type_category": "20",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_174",
+                "user_name": "Jamie",
+                "foot_type_category": "20",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.8"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_59",
+        "shoe_type_category": "20",
+        "fit_score": "90%",
+        "length": 28.1,
+        "width": 11.3,
+        "instep_height": 6.3,
+        "arch_height": 3.2,
+        "heel_width": 9.7,
+        "score": "4.7",
+        "community_number": 323,
+        "comment_number": 40,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_175",
+                "user_name": "Jordan",
+                "foot_type_category": "20",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_176",
+                "user_name": "Casey",
+                "foot_type_category": "20",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_177",
+                "user_name": "Casey",
+                "foot_type_category": "20",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_60",
+        "shoe_type_category": "20",
+        "fit_score": "97%",
+        "length": 29.6,
+        "width": 13.4,
+        "instep_height": 6.6,
+        "arch_height": 2.5,
+        "heel_width": 9.6,
+        "score": "4.1",
+        "community_number": 836,
+        "comment_number": 90,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_178",
+                "user_name": "Jordan",
+                "foot_type_category": "20",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_179",
+                "user_name": "Alex",
+                "foot_type_category": "20",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_180",
+                "user_name": "Casey",
+                "foot_type_category": "20",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_61",
+        "shoe_type_category": "21",
+        "fit_score": "91%",
+        "length": 28.1,
+        "width": 9.0,
+        "instep_height": 7.4,
+        "arch_height": 1.6,
+        "heel_width": 8.6,
+        "score": "4.3",
+        "community_number": 880,
+        "comment_number": 51,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_181",
+                "user_name": "Casey",
+                "foot_type_category": "21",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_182",
+                "user_name": "Riley",
+                "foot_type_category": "21",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_183",
+                "user_name": "Charlie",
+                "foot_type_category": "21",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.8"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_62",
+        "shoe_type_category": "21",
+        "fit_score": "97%",
+        "length": 22.6,
+        "width": 10.9,
+        "instep_height": 5.2,
+        "arch_height": 4.3,
+        "heel_width": 7.6,
+        "score": "4.1",
+        "community_number": 949,
+        "comment_number": 45,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_184",
+                "user_name": "Riley",
+                "foot_type_category": "21",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.6"
+            },
+            {
+                "review_id": "review_185",
+                "user_name": "Taylor",
+                "foot_type_category": "21",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_186",
+                "user_name": "Casey",
+                "foot_type_category": "21",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.2"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_63",
+        "shoe_type_category": "21",
+        "fit_score": "94%",
+        "length": 25.0,
+        "width": 14.0,
+        "instep_height": 7.9,
+        "arch_height": 4.0,
+        "heel_width": 8.3,
+        "score": "4.6",
+        "community_number": 467,
+        "comment_number": 67,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#33FF57",
+        "review": [
+            {
+                "review_id": "review_187",
+                "user_name": "Casey",
+                "foot_type_category": "21",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_188",
+                "user_name": "Casey",
+                "foot_type_category": "21",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_189",
+                "user_name": "Jamie",
+                "foot_type_category": "21",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_64",
+        "shoe_type_category": "22",
+        "fit_score": "90%",
+        "length": 26.9,
+        "width": 8.6,
+        "instep_height": 7.9,
+        "arch_height": 3.3,
+        "heel_width": 9.3,
+        "score": "4.1",
+        "community_number": 677,
+        "comment_number": 40,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_190",
+                "user_name": "Alex",
+                "foot_type_category": "22",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_191",
+                "user_name": "Taylor",
+                "foot_type_category": "22",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_192",
+                "user_name": "Jordan",
+                "foot_type_category": "22",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.2"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_65",
+        "shoe_type_category": "22",
+        "fit_score": "97%",
+        "length": 28.5,
+        "width": 11.9,
+        "instep_height": 7.4,
+        "arch_height": 4.5,
+        "heel_width": 6.7,
+        "score": "4.5",
+        "community_number": 711,
+        "comment_number": 89,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_193",
+                "user_name": "Morgan",
+                "foot_type_category": "22",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_194",
+                "user_name": "Riley",
+                "foot_type_category": "22",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.3"
+            },
+            {
+                "review_id": "review_195",
+                "user_name": "Riley",
+                "foot_type_category": "22",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.5"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_66",
+        "shoe_type_category": "22",
+        "fit_score": "94%",
+        "length": 23.6,
+        "width": 9.8,
+        "instep_height": 6.1,
+        "arch_height": 2.0,
+        "heel_width": 9.8,
+        "score": "4.7",
+        "community_number": 245,
+        "comment_number": 73,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_196",
+                "user_name": "Riley",
+                "foot_type_category": "22",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_197",
+                "user_name": "Jordan",
+                "foot_type_category": "22",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_198",
+                "user_name": "Taylor",
+                "foot_type_category": "22",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.3"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_67",
+        "shoe_type_category": "23",
+        "fit_score": "94%",
+        "length": 25.3,
+        "width": 12.2,
+        "instep_height": 5.2,
+        "arch_height": 2.9,
+        "heel_width": 6.5,
+        "score": "4.7",
+        "community_number": 687,
+        "comment_number": 60,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_199",
+                "user_name": "Jordan",
+                "foot_type_category": "23",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_200",
+                "user_name": "Morgan",
+                "foot_type_category": "23",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.0"
+            },
+            {
+                "review_id": "review_201",
+                "user_name": "Jamie",
+                "foot_type_category": "23",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.7"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_68",
+        "shoe_type_category": "23",
+        "fit_score": "100%",
+        "length": 22.1,
+        "width": 9.1,
+        "instep_height": 8.0,
+        "arch_height": 1.6,
+        "heel_width": 8.9,
+        "score": "4.2",
+        "community_number": 471,
+        "comment_number": 96,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_202",
+                "user_name": "Riley",
+                "foot_type_category": "23",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_203",
+                "user_name": "Casey",
+                "foot_type_category": "23",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_204",
+                "user_name": "Riley",
+                "foot_type_category": "23",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.5"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_69",
+        "shoe_type_category": "23",
+        "fit_score": "91%",
+        "length": 24.6,
+        "width": 11.8,
+        "instep_height": 6.7,
+        "arch_height": 3.1,
+        "heel_width": 9.2,
+        "score": "4.5",
+        "community_number": 889,
+        "comment_number": 74,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_205",
+                "user_name": "Casey",
+                "foot_type_category": "23",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_206",
+                "user_name": "Riley",
+                "foot_type_category": "23",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_207",
+                "user_name": "Jordan",
+                "foot_type_category": "23",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.5"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_70",
+        "shoe_type_category": "24",
+        "fit_score": "96%",
+        "length": 26.0,
+        "width": 10.9,
+        "instep_height": 6.3,
+        "arch_height": 1.4,
+        "heel_width": 9.0,
+        "score": "4.7",
+        "community_number": 518,
+        "comment_number": 57,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_208",
+                "user_name": "Alex",
+                "foot_type_category": "24",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "5.0"
+            },
+            {
+                "review_id": "review_209",
+                "user_name": "Jamie",
+                "foot_type_category": "24",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_210",
+                "user_name": "Charlie",
+                "foot_type_category": "24",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.2"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_71",
+        "shoe_type_category": "24",
+        "fit_score": "92%",
+        "length": 25.8,
+        "width": 9.5,
+        "instep_height": 7.2,
+        "arch_height": 4.6,
+        "heel_width": 6.4,
+        "score": "4.5",
+        "community_number": 187,
+        "comment_number": 76,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_211",
+                "user_name": "Taylor",
+                "foot_type_category": "24",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_212",
+                "user_name": "Casey",
+                "foot_type_category": "24",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_213",
+                "user_name": "Charlie",
+                "foot_type_category": "24",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.5"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_72",
+        "shoe_type_category": "24",
+        "fit_score": "100%",
+        "length": 27.6,
+        "width": 8.6,
+        "instep_height": 6.4,
+        "arch_height": 4.7,
+        "heel_width": 9.7,
+        "score": "4.5",
+        "community_number": 207,
+        "comment_number": 37,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_214",
+                "user_name": "Riley",
+                "foot_type_category": "24",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_215",
+                "user_name": "Jordan",
+                "foot_type_category": "24",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "5.0"
+            },
+            {
+                "review_id": "review_216",
+                "user_name": "Riley",
+                "foot_type_category": "24",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "5.0"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_73",
+        "shoe_type_category": "25",
+        "fit_score": "95%",
+        "length": 26.5,
+        "width": 9.0,
+        "instep_height": 7.7,
+        "arch_height": 3.1,
+        "heel_width": 9.3,
+        "score": "4.7",
+        "community_number": 524,
+        "comment_number": 67,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_217",
+                "user_name": "Morgan",
+                "foot_type_category": "25",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_218",
+                "user_name": "Riley",
+                "foot_type_category": "25",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_219",
+                "user_name": "Alex",
+                "foot_type_category": "25",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.1"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_74",
+        "shoe_type_category": "25",
+        "fit_score": "99%",
+        "length": 28.6,
+        "width": 8.3,
+        "instep_height": 7.2,
+        "arch_height": 2.9,
+        "heel_width": 9.5,
+        "score": "4.7",
+        "community_number": 336,
+        "comment_number": 28,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_220",
+                "user_name": "Jordan",
+                "foot_type_category": "25",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_221",
+                "user_name": "Morgan",
+                "foot_type_category": "25",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_222",
+                "user_name": "Morgan",
+                "foot_type_category": "25",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.5"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_75",
+        "shoe_type_category": "25",
+        "fit_score": "99%",
+        "length": 27.1,
+        "width": 13.5,
+        "instep_height": 5.6,
+        "arch_height": 4.7,
+        "heel_width": 8.2,
+        "score": "4.7",
+        "community_number": 792,
+        "comment_number": 10,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_223",
+                "user_name": "Morgan",
+                "foot_type_category": "25",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.3"
+            },
+            {
+                "review_id": "review_224",
+                "user_name": "Jordan",
+                "foot_type_category": "25",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.3"
+            },
+            {
+                "review_id": "review_225",
+                "user_name": "Jamie",
+                "foot_type_category": "25",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.8"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_76",
+        "shoe_type_category": "26",
+        "fit_score": "97%",
+        "length": 23.7,
+        "width": 12.9,
+        "instep_height": 5.8,
+        "arch_height": 4.9,
+        "heel_width": 9.2,
+        "score": "4.1",
+        "community_number": 319,
+        "comment_number": 26,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#33FF57",
+        "review": [
+            {
+                "review_id": "review_226",
+                "user_name": "Jordan",
+                "foot_type_category": "26",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.0"
+            },
+            {
+                "review_id": "review_227",
+                "user_name": "Riley",
+                "foot_type_category": "26",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_228",
+                "user_name": "Jamie",
+                "foot_type_category": "26",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.4"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_77",
+        "shoe_type_category": "26",
+        "fit_score": "92%",
+        "length": 24.8,
+        "width": 11.3,
+        "instep_height": 7.5,
+        "arch_height": 4.0,
+        "heel_width": 6.5,
+        "score": "4.8",
+        "community_number": 736,
+        "comment_number": 22,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_229",
+                "user_name": "Jamie",
+                "foot_type_category": "26",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.6"
+            },
+            {
+                "review_id": "review_230",
+                "user_name": "Jamie",
+                "foot_type_category": "26",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_231",
+                "user_name": "Jordan",
+                "foot_type_category": "26",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.5"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_78",
+        "shoe_type_category": "26",
+        "fit_score": "91%",
+        "length": 25.1,
+        "width": 10.6,
+        "instep_height": 6.7,
+        "arch_height": 2.1,
+        "heel_width": 6.4,
+        "score": "4.9",
+        "community_number": 607,
+        "comment_number": 26,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_232",
+                "user_name": "Jordan",
+                "foot_type_category": "26",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.6"
+            },
+            {
+                "review_id": "review_233",
+                "user_name": "Casey",
+                "foot_type_category": "26",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.6"
+            },
+            {
+                "review_id": "review_234",
+                "user_name": "Charlie",
+                "foot_type_category": "26",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.8"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_79",
+        "shoe_type_category": "27",
+        "fit_score": "96%",
+        "length": 26.2,
+        "width": 11.7,
+        "instep_height": 7.9,
+        "arch_height": 3.1,
+        "heel_width": 9.3,
+        "score": "4.7",
+        "community_number": 604,
+        "comment_number": 38,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_235",
+                "user_name": "Riley",
+                "foot_type_category": "27",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_236",
+                "user_name": "Alex",
+                "foot_type_category": "27",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.6"
+            },
+            {
+                "review_id": "review_237",
+                "user_name": "Jordan",
+                "foot_type_category": "27",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_80",
+        "shoe_type_category": "27",
+        "fit_score": "91%",
+        "length": 24.8,
+        "width": 8.3,
+        "instep_height": 6.9,
+        "arch_height": 1.6,
+        "heel_width": 8.2,
+        "score": "4.2",
+        "community_number": 938,
+        "comment_number": 60,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_238",
+                "user_name": "Charlie",
+                "foot_type_category": "27",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_239",
+                "user_name": "Charlie",
+                "foot_type_category": "27",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_240",
+                "user_name": "Jordan",
+                "foot_type_category": "27",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.9"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_81",
+        "shoe_type_category": "27",
+        "fit_score": "95%",
+        "length": 27.4,
+        "width": 11.4,
+        "instep_height": 7.5,
+        "arch_height": 2.2,
+        "heel_width": 6.9,
+        "score": "4.3",
+        "community_number": 952,
+        "comment_number": 53,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_241",
+                "user_name": "Taylor",
+                "foot_type_category": "27",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_242",
+                "user_name": "Taylor",
+                "foot_type_category": "27",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_243",
+                "user_name": "Charlie",
+                "foot_type_category": "27",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.9"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_82",
+        "shoe_type_category": "28",
+        "fit_score": "91%",
+        "length": 26.4,
+        "width": 9.9,
+        "instep_height": 7.8,
+        "arch_height": 1.5,
+        "heel_width": 6.8,
+        "score": "4.6",
+        "community_number": 647,
+        "comment_number": 47,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_244",
+                "user_name": "Charlie",
+                "foot_type_category": "28",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_245",
+                "user_name": "Charlie",
+                "foot_type_category": "28",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.3"
+            },
+            {
+                "review_id": "review_246",
+                "user_name": "Taylor",
+                "foot_type_category": "28",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.7"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_83",
+        "shoe_type_category": "28",
+        "fit_score": "92%",
+        "length": 28.6,
+        "width": 12.9,
+        "instep_height": 5.1,
+        "arch_height": 3.1,
+        "heel_width": 7.6,
+        "score": "4.3",
+        "community_number": 531,
+        "comment_number": 75,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#33FF57",
+        "review": [
+            {
+                "review_id": "review_247",
+                "user_name": "Taylor",
+                "foot_type_category": "28",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_248",
+                "user_name": "Morgan",
+                "foot_type_category": "28",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_249",
+                "user_name": "Riley",
+                "foot_type_category": "28",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.2"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_84",
+        "shoe_type_category": "28",
+        "fit_score": "100%",
+        "length": 24.8,
+        "width": 9.1,
+        "instep_height": 7.4,
+        "arch_height": 2.0,
+        "heel_width": 6.3,
+        "score": "4.5",
+        "community_number": 471,
+        "comment_number": 20,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_250",
+                "user_name": "Jordan",
+                "foot_type_category": "28",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_251",
+                "user_name": "Alex",
+                "foot_type_category": "28",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_252",
+                "user_name": "Morgan",
+                "foot_type_category": "28",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.3"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_85",
+        "shoe_type_category": "29",
+        "fit_score": "91%",
+        "length": 28.3,
+        "width": 13.3,
+        "instep_height": 5.2,
+        "arch_height": 1.7,
+        "heel_width": 6.0,
+        "score": "4.7",
+        "community_number": 682,
+        "comment_number": 37,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_253",
+                "user_name": "Charlie",
+                "foot_type_category": "29",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_254",
+                "user_name": "Jordan",
+                "foot_type_category": "29",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_255",
+                "user_name": "Charlie",
+                "foot_type_category": "29",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.4"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_86",
+        "shoe_type_category": "29",
+        "fit_score": "94%",
+        "length": 29.7,
+        "width": 8.1,
+        "instep_height": 6.8,
+        "arch_height": 4.5,
+        "heel_width": 7.3,
+        "score": "4.4",
+        "community_number": 418,
+        "comment_number": 91,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_256",
+                "user_name": "Charlie",
+                "foot_type_category": "29",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_257",
+                "user_name": "Jamie",
+                "foot_type_category": "29",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_258",
+                "user_name": "Jordan",
+                "foot_type_category": "29",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_87",
+        "shoe_type_category": "29",
+        "fit_score": "95%",
+        "length": 24.1,
+        "width": 11.9,
+        "instep_height": 7.9,
+        "arch_height": 4.5,
+        "heel_width": 7.8,
+        "score": "4.2",
+        "community_number": 394,
+        "comment_number": 37,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#33FF57",
+        "review": [
+            {
+                "review_id": "review_259",
+                "user_name": "Jamie",
+                "foot_type_category": "29",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.6"
+            },
+            {
+                "review_id": "review_260",
+                "user_name": "Taylor",
+                "foot_type_category": "29",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_261",
+                "user_name": "Jordan",
+                "foot_type_category": "29",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.3"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_88",
+        "shoe_type_category": "30",
+        "fit_score": "91%",
+        "length": 26.2,
+        "width": 11.6,
+        "instep_height": 5.2,
+        "arch_height": 1.3,
+        "heel_width": 9.0,
+        "score": "4.8",
+        "community_number": 848,
+        "comment_number": 43,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#33FF57",
+        "review": [
+            {
+                "review_id": "review_262",
+                "user_name": "Riley",
+                "foot_type_category": "30",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_263",
+                "user_name": "Riley",
+                "foot_type_category": "30",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_264",
+                "user_name": "Jamie",
+                "foot_type_category": "30",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.9"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_89",
+        "shoe_type_category": "30",
+        "fit_score": "97%",
+        "length": 22.1,
+        "width": 11.7,
+        "instep_height": 6.7,
+        "arch_height": 2.7,
+        "heel_width": 10.0,
+        "score": "4.4",
+        "community_number": 549,
+        "comment_number": 25,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_265",
+                "user_name": "Jamie",
+                "foot_type_category": "30",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_266",
+                "user_name": "Jordan",
+                "foot_type_category": "30",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_267",
+                "user_name": "Charlie",
+                "foot_type_category": "30",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.2"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_90",
+        "shoe_type_category": "30",
+        "fit_score": "99%",
+        "length": 28.9,
+        "width": 12.0,
+        "instep_height": 6.3,
+        "arch_height": 3.3,
+        "heel_width": 8.0,
+        "score": "4.4",
+        "community_number": 385,
+        "comment_number": 61,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_268",
+                "user_name": "Taylor",
+                "foot_type_category": "30",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.3"
+            },
+            {
+                "review_id": "review_269",
+                "user_name": "Jamie",
+                "foot_type_category": "30",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_270",
+                "user_name": "Alex",
+                "foot_type_category": "30",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.7"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_91",
+        "shoe_type_category": "31",
+        "fit_score": "93%",
+        "length": 25.9,
+        "width": 8.3,
+        "instep_height": 7.5,
+        "arch_height": 1.6,
+        "heel_width": 9.5,
+        "score": "4.8",
+        "community_number": 864,
+        "comment_number": 56,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#33FF57",
+        "review": [
+            {
+                "review_id": "review_271",
+                "user_name": "Riley",
+                "foot_type_category": "31",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_272",
+                "user_name": "Jordan",
+                "foot_type_category": "31",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_273",
+                "user_name": "Alex",
+                "foot_type_category": "31",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.3"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_92",
+        "shoe_type_category": "31",
+        "fit_score": "95%",
+        "length": 25.7,
+        "width": 12.7,
+        "instep_height": 5.2,
+        "arch_height": 3.5,
+        "heel_width": 9.6,
+        "score": "4.7",
+        "community_number": 420,
+        "comment_number": 79,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_274",
+                "user_name": "Charlie",
+                "foot_type_category": "31",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_275",
+                "user_name": "Jordan",
+                "foot_type_category": "31",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_276",
+                "user_name": "Jamie",
+                "foot_type_category": "31",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.1"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_93",
+        "shoe_type_category": "31",
+        "fit_score": "97%",
+        "length": 24.8,
+        "width": 13.7,
+        "instep_height": 7.3,
+        "arch_height": 2.7,
+        "heel_width": 8.2,
+        "score": "4.8",
+        "community_number": 618,
+        "comment_number": 100,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_277",
+                "user_name": "Charlie",
+                "foot_type_category": "31",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_278",
+                "user_name": "Alex",
+                "foot_type_category": "31",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_279",
+                "user_name": "Jordan",
+                "foot_type_category": "31",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.9"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_94",
+        "shoe_type_category": "32",
+        "fit_score": "95%",
+        "length": 29.2,
+        "width": 8.2,
+        "instep_height": 7.4,
+        "arch_height": 2.1,
+        "heel_width": 7.7,
+        "score": "4.4",
+        "community_number": 572,
+        "comment_number": 74,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_280",
+                "user_name": "Riley",
+                "foot_type_category": "32",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_281",
+                "user_name": "Casey",
+                "foot_type_category": "32",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_282",
+                "user_name": "Jamie",
+                "foot_type_category": "32",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.8"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_95",
+        "shoe_type_category": "32",
+        "fit_score": "92%",
+        "length": 23.0,
+        "width": 11.7,
+        "instep_height": 5.0,
+        "arch_height": 2.6,
+        "heel_width": 7.7,
+        "score": "4.5",
+        "community_number": 909,
+        "comment_number": 44,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_283",
+                "user_name": "Charlie",
+                "foot_type_category": "32",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.3"
+            },
+            {
+                "review_id": "review_284",
+                "user_name": "Jamie",
+                "foot_type_category": "32",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_285",
+                "user_name": "Casey",
+                "foot_type_category": "32",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_96",
+        "shoe_type_category": "32",
+        "fit_score": "96%",
+        "length": 22.4,
+        "width": 8.3,
+        "instep_height": 7.0,
+        "arch_height": 2.1,
+        "heel_width": 7.0,
+        "score": "4.1",
+        "community_number": 846,
+        "comment_number": 33,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_286",
+                "user_name": "Jamie",
+                "foot_type_category": "32",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_287",
+                "user_name": "Casey",
+                "foot_type_category": "32",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_288",
+                "user_name": "Morgan",
+                "foot_type_category": "32",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.2"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_97",
+        "shoe_type_category": "33",
+        "fit_score": "92%",
+        "length": 23.1,
+        "width": 10.5,
+        "instep_height": 6.4,
+        "arch_height": 1.1,
+        "heel_width": 9.8,
+        "score": "4.9",
+        "community_number": 634,
+        "comment_number": 17,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_289",
+                "user_name": "Alex",
+                "foot_type_category": "33",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_290",
+                "user_name": "Morgan",
+                "foot_type_category": "33",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.4"
+            },
+            {
+                "review_id": "review_291",
+                "user_name": "Jamie",
+                "foot_type_category": "33",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.1"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_98",
+        "shoe_type_category": "33",
+        "fit_score": "90%",
+        "length": 28.9,
+        "width": 11.4,
+        "instep_height": 7.6,
+        "arch_height": 1.8,
+        "heel_width": 9.0,
+        "score": "5.0",
+        "community_number": 453,
+        "comment_number": 77,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_292",
+                "user_name": "Charlie",
+                "foot_type_category": "33",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_293",
+                "user_name": "Casey",
+                "foot_type_category": "33",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_294",
+                "user_name": "Jamie",
+                "foot_type_category": "33",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_99",
+        "shoe_type_category": "33",
+        "fit_score": "97%",
+        "length": 26.8,
+        "width": 11.7,
+        "instep_height": 5.4,
+        "arch_height": 3.2,
+        "heel_width": 10.0,
+        "score": "4.9",
+        "community_number": 664,
+        "comment_number": 100,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_295",
+                "user_name": "Jamie",
+                "foot_type_category": "33",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.0"
+            },
+            {
+                "review_id": "review_296",
+                "user_name": "Casey",
+                "foot_type_category": "33",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_297",
+                "user_name": "Jamie",
+                "foot_type_category": "33",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.9"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_100",
+        "shoe_type_category": "34",
+        "fit_score": "98%",
+        "length": 25.8,
+        "width": 12.5,
+        "instep_height": 5.6,
+        "arch_height": 3.8,
+        "heel_width": 6.0,
+        "score": "4.0",
+        "community_number": 317,
+        "comment_number": 35,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_298",
+                "user_name": "Taylor",
+                "foot_type_category": "34",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.6"
+            },
+            {
+                "review_id": "review_299",
+                "user_name": "Charlie",
+                "foot_type_category": "34",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_300",
+                "user_name": "Jordan",
+                "foot_type_category": "34",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.1"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_101",
+        "shoe_type_category": "34",
+        "fit_score": "98%",
+        "length": 23.2,
+        "width": 12.9,
+        "instep_height": 5.2,
+        "arch_height": 2.9,
+        "heel_width": 9.7,
+        "score": "4.3",
+        "community_number": 844,
+        "comment_number": 76,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_301",
+                "user_name": "Taylor",
+                "foot_type_category": "34",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_302",
+                "user_name": "Morgan",
+                "foot_type_category": "34",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_303",
+                "user_name": "Morgan",
+                "foot_type_category": "34",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.4"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_102",
+        "shoe_type_category": "34",
+        "fit_score": "100%",
+        "length": 25.1,
+        "width": 13.9,
+        "instep_height": 6.6,
+        "arch_height": 4.2,
+        "heel_width": 6.7,
+        "score": "4.5",
+        "community_number": 854,
+        "comment_number": 30,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#3357FF",
+        "review": [
+            {
+                "review_id": "review_304",
+                "user_name": "Jordan",
+                "foot_type_category": "34",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.2"
+            },
+            {
+                "review_id": "review_305",
+                "user_name": "Charlie",
+                "foot_type_category": "34",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.6"
+            },
+            {
+                "review_id": "review_306",
+                "user_name": "Casey",
+                "foot_type_category": "34",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.5"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_103",
+        "shoe_type_category": "35",
+        "fit_score": "93%",
+        "length": 23.8,
+        "width": 9.0,
+        "instep_height": 5.8,
+        "arch_height": 2.0,
+        "heel_width": 7.8,
+        "score": "4.6",
+        "community_number": 140,
+        "comment_number": 40,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_307",
+                "user_name": "Jamie",
+                "foot_type_category": "35",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.1"
+            },
+            {
+                "review_id": "review_308",
+                "user_name": "Casey",
+                "foot_type_category": "35",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_309",
+                "user_name": "Riley",
+                "foot_type_category": "35",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.0"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_104",
+        "shoe_type_category": "35",
+        "fit_score": "97%",
+        "length": 23.8,
+        "width": 11.8,
+        "instep_height": 5.1,
+        "arch_height": 1.2,
+        "heel_width": 9.3,
+        "score": "4.5",
+        "community_number": 526,
+        "comment_number": 62,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#33FF57",
+        "review": [
+            {
+                "review_id": "review_310",
+                "user_name": "Alex",
+                "foot_type_category": "35",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.8"
+            },
+            {
+                "review_id": "review_311",
+                "user_name": "Casey",
+                "foot_type_category": "35",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_312",
+                "user_name": "Jamie",
+                "foot_type_category": "35",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.2"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_105",
+        "shoe_type_category": "35",
+        "fit_score": "99%",
+        "length": 29.8,
+        "width": 11.8,
+        "instep_height": 6.3,
+        "arch_height": 3.4,
+        "heel_width": 8.3,
+        "score": "4.1",
+        "community_number": 274,
+        "comment_number": 68,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_313",
+                "user_name": "Morgan",
+                "foot_type_category": "35",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_314",
+                "user_name": "Casey",
+                "foot_type_category": "35",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_315",
+                "user_name": "Charlie",
+                "foot_type_category": "35",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.5"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_106",
+        "shoe_type_category": "36",
+        "fit_score": "99%",
+        "length": 25.1,
+        "width": 10.1,
+        "instep_height": 6.8,
+        "arch_height": 4.5,
+        "heel_width": 7.6,
+        "score": "4.3",
+        "community_number": 365,
+        "comment_number": 80,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_316",
+                "user_name": "Alex",
+                "foot_type_category": "36",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.6"
+            },
+            {
+                "review_id": "review_317",
+                "user_name": "Taylor",
+                "foot_type_category": "36",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.3"
+            },
+            {
+                "review_id": "review_318",
+                "user_name": "Jordan",
+                "foot_type_category": "36",
+                "review_content": "Excellent cushioning and grip on different terrains.",
+                "rating": "4.3"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_107",
+        "shoe_type_category": "36",
+        "fit_score": "92%",
+        "length": 25.1,
+        "width": 11.6,
+        "instep_height": 5.9,
+        "arch_height": 3.6,
+        "heel_width": 8.3,
+        "score": "5.0",
+        "community_number": 847,
+        "comment_number": 42,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#F333FF",
+        "review": [
+            {
+                "review_id": "review_319",
+                "user_name": "Morgan",
+                "foot_type_category": "36",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.9"
+            },
+            {
+                "review_id": "review_320",
+                "user_name": "Riley",
+                "foot_type_category": "36",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.5"
+            },
+            {
+                "review_id": "review_321",
+                "user_name": "Jamie",
+                "foot_type_category": "36",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.1"
+            }
+        ]
+    },
+    {
+        "shoe_id": "shoe_108",
+        "shoe_type_category": "36",
+        "fit_score": "90%",
+        "length": 23.2,
+        "width": 9.6,
+        "instep_height": 6.2,
+        "arch_height": 4.6,
+        "heel_width": 8.4,
+        "score": "4.6",
+        "community_number": 552,
+        "comment_number": 28,
+        "shoe_image": "https://example.com/shoe_image.png",
+        "color": "#FF5733",
+        "review": [
+            {
+                "review_id": "review_322",
+                "user_name": "Casey",
+                "foot_type_category": "36",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.0"
+            },
+            {
+                "review_id": "review_323",
+                "user_name": "Taylor",
+                "foot_type_category": "36",
+                "review_content": "Great support for long walks, though a bit snug at the toes.",
+                "rating": "4.7"
+            },
+            {
+                "review_id": "review_324",
+                "user_name": "Taylor",
+                "foot_type_category": "36",
+                "review_content": "Incredibly comfortable and stylish. Perfect for my daily runs!",
+                "rating": "4.2"
+            }
+        ]
+    }
+]
