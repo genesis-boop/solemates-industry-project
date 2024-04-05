@@ -1,5 +1,7 @@
 import allShoeData from "../../data/adjusted_shoes_data.json";
 import shoeImg from "../../assets/images/Recommendation_Page/Blissfeel_White.svg";
+import shoeImg2 from "../../assets/images/Recommendation_Page/ShoeNike.svg";
+import shoeImg3 from "../../assets/images/Recommendation_Page/Adistar.svg";
 import brandLogo from "../../assets/icons/ShoeBrandIcons/Icon_Nike.svg";
 import people from "../../assets/icons/ShoeBrandIcons/Recommendation_Icons/Icon_People.svg";
 import star from "../../assets/icons/ShoeBrandIcons/Recommendation_Icons/Icon_Large Star.svg";
@@ -14,6 +16,9 @@ const RecommendationList = ({ category }) => {
     (shoe) => shoe.shoe_type_category === category
   );
 
+  const shoeArr = [shoeImg2, shoeImg3, shoeImg];
+
+  console.log(category);
   return (
     <div className="recommendation-carousel">
       {filteredShoes.map((shoe, index) => (
@@ -28,7 +33,7 @@ const RecommendationList = ({ category }) => {
             <div className="recommendation-carousel__bg">
               <img
                 className="recommendation-carousel__image"
-                src={shoe.shoe_image}
+                src={shoeArr[index]}
                 alt={shoe.model}
               />
             </div>
