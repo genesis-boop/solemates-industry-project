@@ -9,12 +9,12 @@ function NavBar() {
         <div className="navbar">
             <ul className="navbar-list">
                 <Link to={"/recommendation"}>
-                    <li className="navbar-list_item"><img src={homeButton} alt="" />Home</li>
+                    <li className="navbar-list_item navbar-small"><img src={homeButton} alt="home button" />Home</li>
 
                 </Link>
 
-                <li className="navbar-list_item"><img src={scanButton} alt="" />Scan</li>
-                <li className="navbar-list_item"><img src={profileButton} alt="" />Profile</li>
+                <li className="navbar-list_item navbar-big"><img className="" src={scanButton} alt="scan button" />Scan</li>
+                <li className="navbar-list_item navbar-small"><img src={profileButton} alt=" profile button" />Profile</li>
             </ul>
         </div>
     )
