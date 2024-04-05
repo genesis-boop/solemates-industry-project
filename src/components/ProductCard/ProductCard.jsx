@@ -1,10 +1,14 @@
 import "./ProductCard.scss";
 import MainShoe from "../../assets/images/Product_Community/Blissfeel_White.svg";
 import LuluLogo from "../../assets/icons/ShoeBrandIcons/Icon_Lululemon.svg";
+import shoeIcon from "../../assets/icons/MainProductFrame_Icons/Icon_Shoe.svg";
 function ProductCard() {
   return (
     <div className="product-card">
-      <p className="product-card__score">Fit Score: 93%</p>
+      <div className="product-card__fit">
+        <img src={shoeIcon} alt="" />
+        <p className="product-card__score">Fit Score: 93%</p>
+      </div>
       <div className="product-card__main">
         <img src={MainShoe} alt="shoe" />
         <div className="product-card__info">
