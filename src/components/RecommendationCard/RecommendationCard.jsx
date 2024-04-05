@@ -1,3 +1,6 @@
+import "./RecommendationCard.scss"
+
+
 function RecommendationCard() {
     return (
         <div className="rec-card">
