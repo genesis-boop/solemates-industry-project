@@ -14,3 +14,4 @@ function RecommendationPage() {
         </div>
     )
 }
+ export default RecommendationPage;

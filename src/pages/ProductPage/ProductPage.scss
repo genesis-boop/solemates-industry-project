@@ -1,0 +1,18 @@
+.container {
+    width: 500px;
+    height: 500px;
+
+    
+}
+
+.background {
+    background-color: skyblue;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    &-img {
+        height: 15rem;
+        width: 15rem;
+    }   
+}
+

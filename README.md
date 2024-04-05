@@ -27,11 +27,12 @@ feet.
 
 ### Features
 
+-   scan foot in AR
+-   suggest shoe for your foot specifically
+-   
 
 
 ## Implementation
-
-
 
 ### Tech Stack
 
@@ -42,7 +43,7 @@ feet.
 -   react
 -   react-router
 -   axios
-- cors
+-   cors
 
 ### APIs
 
