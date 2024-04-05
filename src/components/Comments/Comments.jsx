@@ -5,7 +5,7 @@ function Comments () {
     return (
         <div className="comments">
            <img className="comments-image" src={Reviews} alt="reviews" />
-
+            
         </div>
     )
 }
