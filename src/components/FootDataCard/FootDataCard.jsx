@@ -9,8 +9,8 @@ const FootDataCard = (props) => {
     console.log(selectedFootType);
   return (
     <div className='footcard'>
-      <h1>Your Foot Analysis</h1>
-      <p>Key Feature of Your Foot</p>
+      <h1 className="footcard__title">Your Foot Analysis</h1>
+      <h2 className='footcard__subtitle'>Key Feature of Your Foot</h2>
       <div className='footcard__labellist'>
       <TypeLabel value={selectedFootType.arch} label="arch" />
       <TypeLabel value={selectedFootType.volume} label="volume" />
