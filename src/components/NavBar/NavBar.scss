@@ -1,0 +1,38 @@
+.navbar {
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    height: 100px;
+    background-color: whitesmoke;
+    margin-left: -25px;
+    &-list {
+        padding: 0;
+        list-style-type: none;
+        display: flex;
+        justify-content: space-around;
+        gap: 100px;
+        text-decoration: none;  
+        &_item {
+            text-decoration: none;  
+        }
+    }
+}
+
+.navbar li {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navbar-big img {
+    height: 63px;
+}
+
+.navbar-small img {
+    height: 40px;
+}

@@ -1,0 +1,4430 @@
+[
+  {
+    "shoe_id": "shoe_1",
+    "shoe_type_category": "1",
+    "fit_score": "98%",
+    "length": 28.9,
+    "width": 10.5,
+    "instep_height": 6.4,
+    "arch_height": 1.8,
+    "heel_width": 6.6,
+    "score": 4.4,
+    "community_number": 934,
+    "comment_number": 63,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../assets/icons/ShoeBrandIcons/Icon_Nike.svg",
+    "model": "Nike Model 32",
+    "colors": ["#40fa03", "#7d043b", "#64a77a", "#ea24e5"],
+    "review": [
+      {
+        "review_id": "review_7388",
+        "user_name": "user_4302",
+        "foot_type_category": "1",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 5.0
+      },
+      {
+        "review_id": "review_682",
+        "user_name": "user_247",
+        "foot_type_category": "1",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_7486",
+        "user_name": "user_9133",
+        "foot_type_category": "1",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_2",
+    "shoe_type_category": "1",
+    "fit_score": "97%",
+    "length": 29.7,
+    "width": 9.9,
+    "instep_height": 5.7,
+    "arch_height": 2.3,
+    "heel_width": 9.9,
+    "score": 4.1,
+    "community_number": 161,
+    "comment_number": 99,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 8",
+    "colors": ["#fcc30e", "#80ef37", "#65e6e9", "#94d780"],
+    "review": [
+      {
+        "review_id": "review_6412",
+        "user_name": "user_1389",
+        "foot_type_category": "1",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      },
+      {
+        "review_id": "review_1624",
+        "user_name": "user_8516",
+        "foot_type_category": "1",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_2580",
+        "user_name": "user_1288",
+        "foot_type_category": "1",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_3",
+    "shoe_type_category": "1",
+    "fit_score": "99%",
+    "length": 27.9,
+    "width": 8.3,
+    "instep_height": 5.9,
+    "arch_height": 2.9,
+    "heel_width": 9.1,
+    "score": 4.2,
+    "community_number": 908,
+    "comment_number": 71,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 39",
+    "colors": ["#4fed37", "#b18c78", "#2f3056", "#342cde"],
+    "review": [
+      {
+        "review_id": "review_3651",
+        "user_name": "user_2476",
+        "foot_type_category": "1",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_4834",
+        "user_name": "user_2702",
+        "foot_type_category": "1",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      },
+      {
+        "review_id": "review_9069",
+        "user_name": "user_1641",
+        "foot_type_category": "1",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_4",
+    "shoe_type_category": "2",
+    "fit_score": "99%",
+    "length": 25.4,
+    "width": 12.5,
+    "instep_height": 5.1,
+    "arch_height": 3.0,
+    "heel_width": 6.6,
+    "score": 5.0,
+    "community_number": 515,
+    "comment_number": 87,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 12",
+    "colors": ["#b99481", "#413a9a", "#60fc4d", "#d1af32"],
+    "review": [
+      {
+        "review_id": "review_3300",
+        "user_name": "user_7760",
+        "foot_type_category": "2",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_6173",
+        "user_name": "user_1145",
+        "foot_type_category": "2",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 5.0
+      },
+      {
+        "review_id": "review_941",
+        "user_name": "user_4610",
+        "foot_type_category": "2",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_5",
+    "shoe_type_category": "2",
+    "fit_score": "97%",
+    "length": 26.8,
+    "width": 11.1,
+    "instep_height": 6.0,
+    "arch_height": 4.9,
+    "heel_width": 6.1,
+    "score": 4.5,
+    "community_number": 925,
+    "comment_number": 63,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 84",
+    "colors": ["#b4f4d8", "#528ef3", "#42cefc", "#823f3c"],
+    "review": [
+      {
+        "review_id": "review_1612",
+        "user_name": "user_5095",
+        "foot_type_category": "2",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_5893",
+        "user_name": "user_486",
+        "foot_type_category": "2",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_2632",
+        "user_name": "user_5876",
+        "foot_type_category": "2",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_6",
+    "shoe_type_category": "2",
+    "fit_score": "98%",
+    "length": 26.1,
+    "width": 13.6,
+    "instep_height": 5.8,
+    "arch_height": 1.4,
+    "heel_width": 8.0,
+    "score": 4.0,
+    "community_number": 648,
+    "comment_number": 55,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 100",
+    "colors": ["#10d47c", "#15da60", "#1fe1f4", "#f33a29"],
+    "review": [
+      {
+        "review_id": "review_9182",
+        "user_name": "user_5943",
+        "foot_type_category": "2",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_2710",
+        "user_name": "user_3688",
+        "foot_type_category": "2",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_8188",
+        "user_name": "user_6748",
+        "foot_type_category": "2",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_7",
+    "shoe_type_category": "3",
+    "fit_score": "90%",
+    "length": 29.9,
+    "width": 11.8,
+    "instep_height": 6.0,
+    "arch_height": 2.5,
+    "heel_width": 8.4,
+    "score": 4.3,
+    "community_number": 646,
+    "comment_number": 80,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 58",
+    "colors": ["#729d77", "#8785d9", "#82d4f4", "#23988c"],
+    "review": [
+      {
+        "review_id": "review_6012",
+        "user_name": "user_3360",
+        "foot_type_category": "3",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      },
+      {
+        "review_id": "review_2280",
+        "user_name": "user_6563",
+        "foot_type_category": "3",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      },
+      {
+        "review_id": "review_5073",
+        "user_name": "user_4520",
+        "foot_type_category": "3",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_8",
+    "shoe_type_category": "3",
+    "fit_score": "99%",
+    "length": 27.3,
+    "width": 12.8,
+    "instep_height": 5.9,
+    "arch_height": 4.8,
+    "heel_width": 10.0,
+    "score": 4.9,
+    "community_number": 355,
+    "comment_number": 90,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 62",
+    "colors": ["#bb2227", "#96acda", "#a559a5", "#42ea75"],
+    "review": [
+      {
+        "review_id": "review_392",
+        "user_name": "user_8196",
+        "foot_type_category": "3",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_7675",
+        "user_name": "user_6828",
+        "foot_type_category": "3",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_6322",
+        "user_name": "user_5401",
+        "foot_type_category": "3",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_9",
+    "shoe_type_category": "3",
+    "fit_score": "95%",
+    "length": 28.2,
+    "width": 12.5,
+    "instep_height": 5.1,
+    "arch_height": 1.6,
+    "heel_width": 8.6,
+    "score": 4.5,
+    "community_number": 747,
+    "comment_number": 65,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 32",
+    "colors": ["#97b759", "#b5b394", "#77f552", "#007b9f"],
+    "review": [
+      {
+        "review_id": "review_9324",
+        "user_name": "user_947",
+        "foot_type_category": "3",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_7642",
+        "user_name": "user_9429",
+        "foot_type_category": "3",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_404",
+        "user_name": "user_6080",
+        "foot_type_category": "3",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_10",
+    "shoe_type_category": "4",
+    "fit_score": "96%",
+    "length": 25.7,
+    "width": 11.9,
+    "instep_height": 7.5,
+    "arch_height": 4.7,
+    "heel_width": 6.9,
+    "score": 4.5,
+    "community_number": 531,
+    "comment_number": 94,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 99",
+    "colors": ["#4280da", "#8da49a", "#839cfb", "#44dae2"],
+    "review": [
+      {
+        "review_id": "review_9646",
+        "user_name": "user_8392",
+        "foot_type_category": "4",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 5.0
+      },
+      {
+        "review_id": "review_6966",
+        "user_name": "user_6327",
+        "foot_type_category": "4",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_7526",
+        "user_name": "user_6237",
+        "foot_type_category": "4",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_11",
+    "shoe_type_category": "4",
+    "fit_score": "96%",
+    "length": 26.6,
+    "width": 13.7,
+    "instep_height": 5.8,
+    "arch_height": 2.3,
+    "heel_width": 9.6,
+    "score": 4.3,
+    "community_number": 255,
+    "comment_number": 17,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 17",
+    "colors": ["#6e3693", "#6f7577", "#96747f", "#fc91a1"],
+    "review": [
+      {
+        "review_id": "review_5582",
+        "user_name": "user_8035",
+        "foot_type_category": "4",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_954",
+        "user_name": "user_3790",
+        "foot_type_category": "4",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_2914",
+        "user_name": "user_5994",
+        "foot_type_category": "4",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_12",
+    "shoe_type_category": "4",
+    "fit_score": "94%",
+    "length": 22.0,
+    "width": 10.2,
+    "instep_height": 6.0,
+    "arch_height": 4.6,
+    "heel_width": 8.8,
+    "score": 4.2,
+    "community_number": 933,
+    "comment_number": 86,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 59",
+    "colors": ["#bdd3cd", "#e4b2f6", "#9c8a3a", "#e0cd6c"],
+    "review": [
+      {
+        "review_id": "review_510",
+        "user_name": "user_3301",
+        "foot_type_category": "4",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_9371",
+        "user_name": "user_9362",
+        "foot_type_category": "4",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_2692",
+        "user_name": "user_6862",
+        "foot_type_category": "4",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_13",
+    "shoe_type_category": "5",
+    "fit_score": "94%",
+    "length": 24.3,
+    "width": 11.2,
+    "instep_height": 7.8,
+    "arch_height": 2.7,
+    "heel_width": 6.3,
+    "score": 4.3,
+    "community_number": 369,
+    "comment_number": 55,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 6",
+    "colors": ["#bb73c6", "#c81216", "#cfce05", "#e88536"],
+    "review": [
+      {
+        "review_id": "review_2162",
+        "user_name": "user_7422",
+        "foot_type_category": "5",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      },
+      {
+        "review_id": "review_3751",
+        "user_name": "user_9781",
+        "foot_type_category": "5",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_3483",
+        "user_name": "user_7058",
+        "foot_type_category": "5",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_14",
+    "shoe_type_category": "5",
+    "fit_score": "96%",
+    "length": 25.4,
+    "width": 13.0,
+    "instep_height": 6.7,
+    "arch_height": 1.9,
+    "heel_width": 8.4,
+    "score": 4.9,
+    "community_number": 938,
+    "comment_number": 44,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 92",
+    "colors": ["#204a7b", "#9eaefe", "#010891", "#cbdbd4"],
+    "review": [
+      {
+        "review_id": "review_8360",
+        "user_name": "user_9664",
+        "foot_type_category": "5",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      },
+      {
+        "review_id": "review_3145",
+        "user_name": "user_91",
+        "foot_type_category": "5",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_756",
+        "user_name": "user_799",
+        "foot_type_category": "5",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_15",
+    "shoe_type_category": "5",
+    "fit_score": "91%",
+    "length": 26.5,
+    "width": 10.6,
+    "instep_height": 7.6,
+    "arch_height": 4.7,
+    "heel_width": 8.3,
+    "score": 4.8,
+    "community_number": 564,
+    "comment_number": 60,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 11",
+    "colors": ["#4afeb9", "#060677", "#d769e6", "#e13525"],
+    "review": [
+      {
+        "review_id": "review_8319",
+        "user_name": "user_5691",
+        "foot_type_category": "5",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_2238",
+        "user_name": "user_4695",
+        "foot_type_category": "5",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_2839",
+        "user_name": "user_5402",
+        "foot_type_category": "5",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_16",
+    "shoe_type_category": "6",
+    "fit_score": "95%",
+    "length": 26.0,
+    "width": 9.8,
+    "instep_height": 7.1,
+    "arch_height": 4.2,
+    "heel_width": 7.0,
+    "score": 4.8,
+    "community_number": 387,
+    "comment_number": 45,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 69",
+    "colors": ["#3dab63", "#c144d5", "#41439c", "#c95b18"],
+    "review": [
+      {
+        "review_id": "review_1384",
+        "user_name": "user_7381",
+        "foot_type_category": "6",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_7559",
+        "user_name": "user_3066",
+        "foot_type_category": "6",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_1653",
+        "user_name": "user_1941",
+        "foot_type_category": "6",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_17",
+    "shoe_type_category": "6",
+    "fit_score": "93%",
+    "length": 25.6,
+    "width": 10.6,
+    "instep_height": 6.8,
+    "arch_height": 4.9,
+    "heel_width": 6.1,
+    "score": 4.5,
+    "community_number": 978,
+    "comment_number": 25,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 78",
+    "colors": ["#539ef7", "#f9756b", "#fb855b", "#c3cf30"],
+    "review": [
+      {
+        "review_id": "review_1734",
+        "user_name": "user_3764",
+        "foot_type_category": "6",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_5745",
+        "user_name": "user_421",
+        "foot_type_category": "6",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_576",
+        "user_name": "user_5567",
+        "foot_type_category": "6",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_18",
+    "shoe_type_category": "6",
+    "fit_score": "90%",
+    "length": 27.0,
+    "width": 11.5,
+    "instep_height": 5.3,
+    "arch_height": 3.9,
+    "heel_width": 6.0,
+    "score": 4.0,
+    "community_number": 942,
+    "comment_number": 15,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 69",
+    "colors": ["#d663d4", "#eac62e", "#27110b", "#a24e07"],
+    "review": [
+      {
+        "review_id": "review_2607",
+        "user_name": "user_6532",
+        "foot_type_category": "6",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_9482",
+        "user_name": "user_6137",
+        "foot_type_category": "6",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_1747",
+        "user_name": "user_5482",
+        "foot_type_category": "6",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_19",
+    "shoe_type_category": "7",
+    "fit_score": "90%",
+    "length": 28.1,
+    "width": 8.9,
+    "instep_height": 7.4,
+    "arch_height": 4.0,
+    "heel_width": 9.5,
+    "score": 4.7,
+    "community_number": 317,
+    "comment_number": 15,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 48",
+    "colors": ["#95ed80", "#4a97f0", "#ffb0b8", "#60a2d8"],
+    "review": [
+      {
+        "review_id": "review_4100",
+        "user_name": "user_9753",
+        "foot_type_category": "7",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_9134",
+        "user_name": "user_9832",
+        "foot_type_category": "7",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      },
+      {
+        "review_id": "review_4851",
+        "user_name": "user_231",
+        "foot_type_category": "7",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_20",
+    "shoe_type_category": "7",
+    "fit_score": "100%",
+    "length": 23.8,
+    "width": 11.1,
+    "instep_height": 5.0,
+    "arch_height": 4.8,
+    "heel_width": 8.9,
+    "score": 4.7,
+    "community_number": 152,
+    "comment_number": 36,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 93",
+    "colors": ["#c003cd", "#004dd6", "#c3c949", "#21066a"],
+    "review": [
+      {
+        "review_id": "review_5153",
+        "user_name": "user_9360",
+        "foot_type_category": "7",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_3219",
+        "user_name": "user_1276",
+        "foot_type_category": "7",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_2244",
+        "user_name": "user_4951",
+        "foot_type_category": "7",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_21",
+    "shoe_type_category": "7",
+    "fit_score": "94%",
+    "length": 26.9,
+    "width": 8.8,
+    "instep_height": 6.8,
+    "arch_height": 2.0,
+    "heel_width": 8.0,
+    "score": 4.3,
+    "community_number": 143,
+    "comment_number": 55,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 53",
+    "colors": ["#a7f329", "#260090", "#75e975", "#38b235"],
+    "review": [
+      {
+        "review_id": "review_8930",
+        "user_name": "user_9397",
+        "foot_type_category": "7",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      },
+      {
+        "review_id": "review_808",
+        "user_name": "user_5559",
+        "foot_type_category": "7",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      },
+      {
+        "review_id": "review_2042",
+        "user_name": "user_714",
+        "foot_type_category": "7",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_22",
+    "shoe_type_category": "8",
+    "fit_score": "95%",
+    "length": 25.8,
+    "width": 11.9,
+    "instep_height": 7.3,
+    "arch_height": 3.4,
+    "heel_width": 6.8,
+    "score": 4.1,
+    "community_number": 375,
+    "comment_number": 61,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 25",
+    "colors": ["#1be280", "#3385ad", "#8d86cf", "#5e2b18"],
+    "review": [
+      {
+        "review_id": "review_8807",
+        "user_name": "user_7422",
+        "foot_type_category": "8",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_6055",
+        "user_name": "user_6340",
+        "foot_type_category": "8",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      },
+      {
+        "review_id": "review_5088",
+        "user_name": "user_2132",
+        "foot_type_category": "8",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_23",
+    "shoe_type_category": "8",
+    "fit_score": "95%",
+    "length": 27.6,
+    "width": 10.5,
+    "instep_height": 7.4,
+    "arch_height": 3.7,
+    "heel_width": 7.8,
+    "score": 4.2,
+    "community_number": 401,
+    "comment_number": 57,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 25",
+    "colors": ["#4d80a6", "#ef4cb7", "#ac86c1", "#c05cd5"],
+    "review": [
+      {
+        "review_id": "review_240",
+        "user_name": "user_8635",
+        "foot_type_category": "8",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_4743",
+        "user_name": "user_9269",
+        "foot_type_category": "8",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_6293",
+        "user_name": "user_3301",
+        "foot_type_category": "8",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_24",
+    "shoe_type_category": "8",
+    "fit_score": "90%",
+    "length": 29.7,
+    "width": 9.4,
+    "instep_height": 5.8,
+    "arch_height": 4.2,
+    "heel_width": 8.9,
+    "score": 4.8,
+    "community_number": 113,
+    "comment_number": 80,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 80",
+    "colors": ["#1039a7", "#655374", "#2c4864", "#9dcebd"],
+    "review": [
+      {
+        "review_id": "review_451",
+        "user_name": "user_6005",
+        "foot_type_category": "8",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_902",
+        "user_name": "user_3379",
+        "foot_type_category": "8",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_6517",
+        "user_name": "user_9401",
+        "foot_type_category": "8",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_25",
+    "shoe_type_category": "9",
+    "fit_score": "93%",
+    "length": 27.4,
+    "width": 11.8,
+    "instep_height": 7.1,
+    "arch_height": 1.6,
+    "heel_width": 7.8,
+    "score": 4.4,
+    "community_number": 537,
+    "comment_number": 21,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 46",
+    "colors": ["#fb4876", "#9d2589", "#91d0fd", "#d5ef8d"],
+    "review": [
+      {
+        "review_id": "review_2540",
+        "user_name": "user_3409",
+        "foot_type_category": "9",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_5870",
+        "user_name": "user_4961",
+        "foot_type_category": "9",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      },
+      {
+        "review_id": "review_4028",
+        "user_name": "user_7564",
+        "foot_type_category": "9",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_26",
+    "shoe_type_category": "9",
+    "fit_score": "100%",
+    "length": 28.2,
+    "width": 11.0,
+    "instep_height": 7.4,
+    "arch_height": 2.6,
+    "heel_width": 6.8,
+    "score": 4.1,
+    "community_number": 812,
+    "comment_number": 63,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 87",
+    "colors": ["#725f4b", "#ff183b", "#8f5db0", "#32de71"],
+    "review": [
+      {
+        "review_id": "review_9012",
+        "user_name": "user_5906",
+        "foot_type_category": "9",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_6676",
+        "user_name": "user_6126",
+        "foot_type_category": "9",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      },
+      {
+        "review_id": "review_9760",
+        "user_name": "user_9286",
+        "foot_type_category": "9",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_27",
+    "shoe_type_category": "9",
+    "fit_score": "91%",
+    "length": 23.6,
+    "width": 12.6,
+    "instep_height": 5.9,
+    "arch_height": 4.9,
+    "heel_width": 8.7,
+    "score": 4.7,
+    "community_number": 267,
+    "comment_number": 70,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 26",
+    "colors": ["#eb5e2a", "#2a6212", "#332ec3", "#f79303"],
+    "review": [
+      {
+        "review_id": "review_4312",
+        "user_name": "user_3117",
+        "foot_type_category": "9",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_9158",
+        "user_name": "user_6151",
+        "foot_type_category": "9",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      },
+      {
+        "review_id": "review_7239",
+        "user_name": "user_9027",
+        "foot_type_category": "9",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_28",
+    "shoe_type_category": "10",
+    "fit_score": "99%",
+    "length": 24.6,
+    "width": 12.8,
+    "instep_height": 5.5,
+    "arch_height": 1.3,
+    "heel_width": 8.5,
+    "score": 4.1,
+    "community_number": 901,
+    "comment_number": 65,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 67",
+    "colors": ["#5f9355", "#75f88f", "#f93cb2", "#75bbcb"],
+    "review": [
+      {
+        "review_id": "review_952",
+        "user_name": "user_1228",
+        "foot_type_category": "10",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_3888",
+        "user_name": "user_9841",
+        "foot_type_category": "10",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      },
+      {
+        "review_id": "review_6955",
+        "user_name": "user_6339",
+        "foot_type_category": "10",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_29",
+    "shoe_type_category": "10",
+    "fit_score": "94%",
+    "length": 26.0,
+    "width": 10.6,
+    "instep_height": 5.3,
+    "arch_height": 2.5,
+    "heel_width": 6.7,
+    "score": 4.9,
+    "community_number": 651,
+    "comment_number": 95,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 68",
+    "colors": ["#d2109c", "#286888", "#cf5563", "#586b22"],
+    "review": [
+      {
+        "review_id": "review_9467",
+        "user_name": "user_5000",
+        "foot_type_category": "10",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      },
+      {
+        "review_id": "review_2721",
+        "user_name": "user_6887",
+        "foot_type_category": "10",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_7993",
+        "user_name": "user_3243",
+        "foot_type_category": "10",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_30",
+    "shoe_type_category": "10",
+    "fit_score": "100%",
+    "length": 26.1,
+    "width": 13.6,
+    "instep_height": 5.9,
+    "arch_height": 4.5,
+    "heel_width": 8.8,
+    "score": 4.3,
+    "community_number": 124,
+    "comment_number": 16,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 38",
+    "colors": ["#f81f4c", "#df8806", "#3cc8d8", "#e7828d"],
+    "review": [
+      {
+        "review_id": "review_1546",
+        "user_name": "user_1073",
+        "foot_type_category": "10",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_5073",
+        "user_name": "user_7813",
+        "foot_type_category": "10",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_6180",
+        "user_name": "user_185",
+        "foot_type_category": "10",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_31",
+    "shoe_type_category": "11",
+    "fit_score": "91%",
+    "length": 26.3,
+    "width": 8.3,
+    "instep_height": 7.0,
+    "arch_height": 1.3,
+    "heel_width": 7.5,
+    "score": 4.6,
+    "community_number": 712,
+    "comment_number": 26,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 59",
+    "colors": ["#f1435e", "#78fea4", "#2c7301", "#023dfd"],
+    "review": [
+      {
+        "review_id": "review_3088",
+        "user_name": "user_1999",
+        "foot_type_category": "11",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      },
+      {
+        "review_id": "review_620",
+        "user_name": "user_6850",
+        "foot_type_category": "11",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_3120",
+        "user_name": "user_6006",
+        "foot_type_category": "11",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_32",
+    "shoe_type_category": "11",
+    "fit_score": "96%",
+    "length": 28.6,
+    "width": 8.8,
+    "instep_height": 7.6,
+    "arch_height": 4.7,
+    "heel_width": 6.7,
+    "score": 4.2,
+    "community_number": 557,
+    "comment_number": 83,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 79",
+    "colors": ["#2121cc", "#a1fcd3", "#261ed3", "#7fea27"],
+    "review": [
+      {
+        "review_id": "review_4217",
+        "user_name": "user_4165",
+        "foot_type_category": "11",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_3136",
+        "user_name": "user_5206",
+        "foot_type_category": "11",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_8521",
+        "user_name": "user_3718",
+        "foot_type_category": "11",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_33",
+    "shoe_type_category": "11",
+    "fit_score": "97%",
+    "length": 26.3,
+    "width": 11.4,
+    "instep_height": 5.1,
+    "arch_height": 2.9,
+    "heel_width": 9.1,
+    "score": 4.2,
+    "community_number": 188,
+    "comment_number": 91,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 36",
+    "colors": ["#755829", "#5a6aed", "#fb1883", "#408191"],
+    "review": [
+      {
+        "review_id": "review_8878",
+        "user_name": "user_6171",
+        "foot_type_category": "11",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_2040",
+        "user_name": "user_847",
+        "foot_type_category": "11",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_248",
+        "user_name": "user_7464",
+        "foot_type_category": "11",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_34",
+    "shoe_type_category": "12",
+    "fit_score": "98%",
+    "length": 29.1,
+    "width": 11.4,
+    "instep_height": 7.8,
+    "arch_height": 3.1,
+    "heel_width": 10.0,
+    "score": 4.0,
+    "community_number": 664,
+    "comment_number": 87,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 47",
+    "colors": ["#8f19f4", "#7855e5", "#d1fcef", "#a8dd51"],
+    "review": [
+      {
+        "review_id": "review_5435",
+        "user_name": "user_1189",
+        "foot_type_category": "12",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_2971",
+        "user_name": "user_2303",
+        "foot_type_category": "12",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      },
+      {
+        "review_id": "review_2536",
+        "user_name": "user_8005",
+        "foot_type_category": "12",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_35",
+    "shoe_type_category": "12",
+    "fit_score": "92%",
+    "length": 25.8,
+    "width": 8.8,
+    "instep_height": 7.8,
+    "arch_height": 2.8,
+    "heel_width": 8.3,
+    "score": 4.1,
+    "community_number": 897,
+    "comment_number": 24,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 67",
+    "colors": ["#9a0ba6", "#e58545", "#47d50e", "#db1c7d"],
+    "review": [
+      {
+        "review_id": "review_3598",
+        "user_name": "user_5122",
+        "foot_type_category": "12",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_9125",
+        "user_name": "user_1462",
+        "foot_type_category": "12",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      },
+      {
+        "review_id": "review_5159",
+        "user_name": "user_5854",
+        "foot_type_category": "12",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_36",
+    "shoe_type_category": "12",
+    "fit_score": "98%",
+    "length": 29.9,
+    "width": 11.6,
+    "instep_height": 6.7,
+    "arch_height": 2.8,
+    "heel_width": 6.8,
+    "score": 4.2,
+    "community_number": 776,
+    "comment_number": 51,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 83",
+    "colors": ["#55c9a9", "#f18e75", "#939db5", "#577ce3"],
+    "review": [
+      {
+        "review_id": "review_7350",
+        "user_name": "user_8883",
+        "foot_type_category": "12",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      },
+      {
+        "review_id": "review_4370",
+        "user_name": "user_5549",
+        "foot_type_category": "12",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_1618",
+        "user_name": "user_6591",
+        "foot_type_category": "12",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_37",
+    "shoe_type_category": "13",
+    "fit_score": "92%",
+    "length": 25.1,
+    "width": 13.1,
+    "instep_height": 5.1,
+    "arch_height": 2.2,
+    "heel_width": 6.7,
+    "score": 4.2,
+    "community_number": 460,
+    "comment_number": 80,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 73",
+    "colors": ["#e68027", "#7e241b", "#4e9dff", "#91132c"],
+    "review": [
+      {
+        "review_id": "review_7583",
+        "user_name": "user_6651",
+        "foot_type_category": "13",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_7471",
+        "user_name": "user_7259",
+        "foot_type_category": "13",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      },
+      {
+        "review_id": "review_3960",
+        "user_name": "user_4765",
+        "foot_type_category": "13",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_38",
+    "shoe_type_category": "13",
+    "fit_score": "92%",
+    "length": 22.7,
+    "width": 12.2,
+    "instep_height": 6.0,
+    "arch_height": 1.8,
+    "heel_width": 7.8,
+    "score": 4.7,
+    "community_number": 742,
+    "comment_number": 83,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 100",
+    "colors": ["#d5d2bd", "#a86e41", "#1d8707", "#29eba2"],
+    "review": [
+      {
+        "review_id": "review_1218",
+        "user_name": "user_8356",
+        "foot_type_category": "13",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 5.0
+      },
+      {
+        "review_id": "review_6084",
+        "user_name": "user_3060",
+        "foot_type_category": "13",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_767",
+        "user_name": "user_6817",
+        "foot_type_category": "13",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_39",
+    "shoe_type_category": "13",
+    "fit_score": "96%",
+    "length": 22.9,
+    "width": 13.3,
+    "instep_height": 5.8,
+    "arch_height": 1.6,
+    "heel_width": 6.3,
+    "score": 4.5,
+    "community_number": 454,
+    "comment_number": 76,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 41",
+    "colors": ["#9f6ca0", "#df4249", "#6cad6d", "#f52a33"],
+    "review": [
+      {
+        "review_id": "review_2630",
+        "user_name": "user_456",
+        "foot_type_category": "13",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_3219",
+        "user_name": "user_6021",
+        "foot_type_category": "13",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_2736",
+        "user_name": "user_9506",
+        "foot_type_category": "13",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_40",
+    "shoe_type_category": "14",
+    "fit_score": "95%",
+    "length": 23.0,
+    "width": 13.2,
+    "instep_height": 6.2,
+    "arch_height": 3.5,
+    "heel_width": 6.7,
+    "score": 4.7,
+    "community_number": 668,
+    "comment_number": 54,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 30",
+    "colors": ["#a2f23f", "#d184dd", "#f50413", "#29f612"],
+    "review": [
+      {
+        "review_id": "review_6972",
+        "user_name": "user_9635",
+        "foot_type_category": "14",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      },
+      {
+        "review_id": "review_4430",
+        "user_name": "user_6950",
+        "foot_type_category": "14",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_7626",
+        "user_name": "user_4399",
+        "foot_type_category": "14",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_41",
+    "shoe_type_category": "14",
+    "fit_score": "91%",
+    "length": 26.9,
+    "width": 8.5,
+    "instep_height": 6.6,
+    "arch_height": 1.2,
+    "heel_width": 8.6,
+    "score": 4.2,
+    "community_number": 808,
+    "comment_number": 70,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 49",
+    "colors": ["#13bd4a", "#95aec9", "#408e82", "#55a5c8"],
+    "review": [
+      {
+        "review_id": "review_3690",
+        "user_name": "user_1592",
+        "foot_type_category": "14",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_6133",
+        "user_name": "user_3270",
+        "foot_type_category": "14",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_6317",
+        "user_name": "user_8146",
+        "foot_type_category": "14",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_42",
+    "shoe_type_category": "14",
+    "fit_score": "94%",
+    "length": 23.3,
+    "width": 8.9,
+    "instep_height": 7.2,
+    "arch_height": 1.1,
+    "heel_width": 9.6,
+    "score": 4.1,
+    "community_number": 763,
+    "comment_number": 29,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 61",
+    "colors": ["#9fa3f7", "#dd853c", "#770b91", "#2c427d"],
+    "review": [
+      {
+        "review_id": "review_9662",
+        "user_name": "user_2885",
+        "foot_type_category": "14",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_3841",
+        "user_name": "user_5507",
+        "foot_type_category": "14",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_127",
+        "user_name": "user_6649",
+        "foot_type_category": "14",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_43",
+    "shoe_type_category": "15",
+    "fit_score": "98%",
+    "length": 26.9,
+    "width": 11.0,
+    "instep_height": 7.1,
+    "arch_height": 3.7,
+    "heel_width": 9.6,
+    "score": 4.2,
+    "community_number": 535,
+    "comment_number": 58,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 19",
+    "colors": ["#ccc689", "#d9efd9", "#e56bb5", "#26134b"],
+    "review": [
+      {
+        "review_id": "review_4643",
+        "user_name": "user_3769",
+        "foot_type_category": "15",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 5.0
+      },
+      {
+        "review_id": "review_7068",
+        "user_name": "user_1219",
+        "foot_type_category": "15",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      },
+      {
+        "review_id": "review_9572",
+        "user_name": "user_8529",
+        "foot_type_category": "15",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_44",
+    "shoe_type_category": "15",
+    "fit_score": "96%",
+    "length": 28.7,
+    "width": 11.9,
+    "instep_height": 5.8,
+    "arch_height": 3.6,
+    "heel_width": 7.5,
+    "score": 4.6,
+    "community_number": 831,
+    "comment_number": 16,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 40",
+    "colors": ["#d32438", "#f026e5", "#763364", "#17465c"],
+    "review": [
+      {
+        "review_id": "review_5632",
+        "user_name": "user_2433",
+        "foot_type_category": "15",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_7890",
+        "user_name": "user_6436",
+        "foot_type_category": "15",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      },
+      {
+        "review_id": "review_9125",
+        "user_name": "user_8540",
+        "foot_type_category": "15",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_45",
+    "shoe_type_category": "15",
+    "fit_score": "90%",
+    "length": 28.3,
+    "width": 13.3,
+    "instep_height": 6.2,
+    "arch_height": 2.4,
+    "heel_width": 8.0,
+    "score": 4.8,
+    "community_number": 941,
+    "comment_number": 24,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 83",
+    "colors": ["#e7bcfe", "#d8377c", "#02db9b", "#3c20d3"],
+    "review": [
+      {
+        "review_id": "review_2504",
+        "user_name": "user_3034",
+        "foot_type_category": "15",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_4058",
+        "user_name": "user_9800",
+        "foot_type_category": "15",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_8703",
+        "user_name": "user_859",
+        "foot_type_category": "15",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_46",
+    "shoe_type_category": "16",
+    "fit_score": "90%",
+    "length": 29.5,
+    "width": 8.5,
+    "instep_height": 6.4,
+    "arch_height": 4.4,
+    "heel_width": 6.9,
+    "score": 4.2,
+    "community_number": 731,
+    "comment_number": 14,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 67",
+    "colors": ["#22d56a", "#146883", "#fd5f75", "#7058ec"],
+    "review": [
+      {
+        "review_id": "review_8255",
+        "user_name": "user_6511",
+        "foot_type_category": "16",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_7572",
+        "user_name": "user_165",
+        "foot_type_category": "16",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_9814",
+        "user_name": "user_9772",
+        "foot_type_category": "16",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_47",
+    "shoe_type_category": "16",
+    "fit_score": "93%",
+    "length": 26.9,
+    "width": 10.7,
+    "instep_height": 5.5,
+    "arch_height": 2.1,
+    "heel_width": 8.1,
+    "score": 5.0,
+    "community_number": 216,
+    "comment_number": 16,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 72",
+    "colors": ["#fc5e6a", "#5bd293", "#eaa306", "#c17abf"],
+    "review": [
+      {
+        "review_id": "review_6103",
+        "user_name": "user_7351",
+        "foot_type_category": "16",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      },
+      {
+        "review_id": "review_9703",
+        "user_name": "user_5450",
+        "foot_type_category": "16",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      },
+      {
+        "review_id": "review_1230",
+        "user_name": "user_1501",
+        "foot_type_category": "16",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_48",
+    "shoe_type_category": "16",
+    "fit_score": "93%",
+    "length": 22.4,
+    "width": 10.8,
+    "instep_height": 6.0,
+    "arch_height": 3.2,
+    "heel_width": 6.8,
+    "score": 4.4,
+    "community_number": 762,
+    "comment_number": 42,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 86",
+    "colors": ["#cf0a83", "#1abcf4", "#0794c0", "#fcb3a8"],
+    "review": [
+      {
+        "review_id": "review_3468",
+        "user_name": "user_8707",
+        "foot_type_category": "16",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_1039",
+        "user_name": "user_6404",
+        "foot_type_category": "16",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_4683",
+        "user_name": "user_8518",
+        "foot_type_category": "16",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_49",
+    "shoe_type_category": "17",
+    "fit_score": "100%",
+    "length": 22.3,
+    "width": 8.8,
+    "instep_height": 6.7,
+    "arch_height": 1.6,
+    "heel_width": 6.9,
+    "score": 4.6,
+    "community_number": 362,
+    "comment_number": 29,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 41",
+    "colors": ["#597d02", "#095a5b", "#e42007", "#1585bd"],
+    "review": [
+      {
+        "review_id": "review_5602",
+        "user_name": "user_1600",
+        "foot_type_category": "17",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_6225",
+        "user_name": "user_7269",
+        "foot_type_category": "17",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_2739",
+        "user_name": "user_9458",
+        "foot_type_category": "17",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_50",
+    "shoe_type_category": "17",
+    "fit_score": "99%",
+    "length": 26.9,
+    "width": 13.2,
+    "instep_height": 6.5,
+    "arch_height": 4.8,
+    "heel_width": 7.0,
+    "score": 4.2,
+    "community_number": 332,
+    "comment_number": 60,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 60",
+    "colors": ["#de23c5", "#c74bd6", "#205c5a", "#f4645e"],
+    "review": [
+      {
+        "review_id": "review_4750",
+        "user_name": "user_1633",
+        "foot_type_category": "17",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_9210",
+        "user_name": "user_1315",
+        "foot_type_category": "17",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_3015",
+        "user_name": "user_9911",
+        "foot_type_category": "17",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_51",
+    "shoe_type_category": "17",
+    "fit_score": "95%",
+    "length": 22.3,
+    "width": 8.2,
+    "instep_height": 7.8,
+    "arch_height": 4.4,
+    "heel_width": 6.1,
+    "score": 4.7,
+    "community_number": 430,
+    "comment_number": 30,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 5",
+    "colors": ["#5ef9e8", "#4be613", "#9abf9b", "#b31977"],
+    "review": [
+      {
+        "review_id": "review_7290",
+        "user_name": "user_2852",
+        "foot_type_category": "17",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      },
+      {
+        "review_id": "review_2346",
+        "user_name": "user_1167",
+        "foot_type_category": "17",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_3324",
+        "user_name": "user_6006",
+        "foot_type_category": "17",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_52",
+    "shoe_type_category": "18",
+    "fit_score": "96%",
+    "length": 22.4,
+    "width": 11.3,
+    "instep_height": 6.6,
+    "arch_height": 1.9,
+    "heel_width": 9.0,
+    "score": 4.5,
+    "community_number": 647,
+    "comment_number": 57,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 73",
+    "colors": ["#2c5b30", "#88769f", "#fd8ac4", "#1833a6"],
+    "review": [
+      {
+        "review_id": "review_6197",
+        "user_name": "user_887",
+        "foot_type_category": "18",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_812",
+        "user_name": "user_9235",
+        "foot_type_category": "18",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_9694",
+        "user_name": "user_9345",
+        "foot_type_category": "18",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_53",
+    "shoe_type_category": "18",
+    "fit_score": "94%",
+    "length": 23.3,
+    "width": 10.4,
+    "instep_height": 6.9,
+    "arch_height": 1.4,
+    "heel_width": 9.7,
+    "score": 4.4,
+    "community_number": 779,
+    "comment_number": 96,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 55",
+    "colors": ["#175867", "#fe5379", "#bc7e38", "#14ab3b"],
+    "review": [
+      {
+        "review_id": "review_9764",
+        "user_name": "user_291",
+        "foot_type_category": "18",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_8334",
+        "user_name": "user_7632",
+        "foot_type_category": "18",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_7670",
+        "user_name": "user_3582",
+        "foot_type_category": "18",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_54",
+    "shoe_type_category": "18",
+    "fit_score": "90%",
+    "length": 24.5,
+    "width": 10.4,
+    "instep_height": 7.8,
+    "arch_height": 1.8,
+    "heel_width": 6.7,
+    "score": 4.8,
+    "community_number": 746,
+    "comment_number": 23,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 66",
+    "colors": ["#bf64d6", "#75a19d", "#ba442c", "#dfd46d"],
+    "review": [
+      {
+        "review_id": "review_2405",
+        "user_name": "user_5340",
+        "foot_type_category": "18",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_8009",
+        "user_name": "user_2725",
+        "foot_type_category": "18",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_358",
+        "user_name": "user_6594",
+        "foot_type_category": "18",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_55",
+    "shoe_type_category": "19",
+    "fit_score": "96%",
+    "length": 24.0,
+    "width": 12.9,
+    "instep_height": 7.9,
+    "arch_height": 3.7,
+    "heel_width": 6.3,
+    "score": 4.9,
+    "community_number": 481,
+    "comment_number": 69,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 39",
+    "colors": ["#c0f6f7", "#06b322", "#7f2bfa", "#e28992"],
+    "review": [
+      {
+        "review_id": "review_6580",
+        "user_name": "user_3148",
+        "foot_type_category": "19",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_2381",
+        "user_name": "user_9638",
+        "foot_type_category": "19",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_2485",
+        "user_name": "user_7916",
+        "foot_type_category": "19",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_56",
+    "shoe_type_category": "19",
+    "fit_score": "97%",
+    "length": 26.0,
+    "width": 10.3,
+    "instep_height": 5.1,
+    "arch_height": 3.9,
+    "heel_width": 9.8,
+    "score": 4.1,
+    "community_number": 266,
+    "comment_number": 46,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 29",
+    "colors": ["#86b290", "#542967", "#d3fdc6", "#c76a2a"],
+    "review": [
+      {
+        "review_id": "review_5605",
+        "user_name": "user_3593",
+        "foot_type_category": "19",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      },
+      {
+        "review_id": "review_6018",
+        "user_name": "user_1570",
+        "foot_type_category": "19",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_903",
+        "user_name": "user_1212",
+        "foot_type_category": "19",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_57",
+    "shoe_type_category": "19",
+    "fit_score": "90%",
+    "length": 22.0,
+    "width": 11.3,
+    "instep_height": 5.8,
+    "arch_height": 3.9,
+    "heel_width": 7.8,
+    "score": 4.1,
+    "community_number": 914,
+    "comment_number": 16,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 33",
+    "colors": ["#1385d9", "#7a73e5", "#ea6618", "#bc3d90"],
+    "review": [
+      {
+        "review_id": "review_1480",
+        "user_name": "user_262",
+        "foot_type_category": "19",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_5483",
+        "user_name": "user_2917",
+        "foot_type_category": "19",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_4765",
+        "user_name": "user_2024",
+        "foot_type_category": "19",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_58",
+    "shoe_type_category": "20",
+    "fit_score": "91%",
+    "length": 26.7,
+    "width": 13.9,
+    "instep_height": 6.5,
+    "arch_height": 2.8,
+    "heel_width": 6.5,
+    "score": 4.7,
+    "community_number": 599,
+    "comment_number": 42,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 95",
+    "colors": ["#90a310", "#2655d3", "#f67858", "#cc3399"],
+    "review": [
+      {
+        "review_id": "review_9546",
+        "user_name": "user_4788",
+        "foot_type_category": "20",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_6694",
+        "user_name": "user_1140",
+        "foot_type_category": "20",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_1009",
+        "user_name": "user_9181",
+        "foot_type_category": "20",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_59",
+    "shoe_type_category": "20",
+    "fit_score": "100%",
+    "length": 25.4,
+    "width": 13.5,
+    "instep_height": 7.3,
+    "arch_height": 2.3,
+    "heel_width": 9.9,
+    "score": 4.5,
+    "community_number": 210,
+    "comment_number": 70,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 26",
+    "colors": ["#ad032b", "#547a41", "#9db257", "#cbc079"],
+    "review": [
+      {
+        "review_id": "review_2489",
+        "user_name": "user_7970",
+        "foot_type_category": "20",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 5.0
+      },
+      {
+        "review_id": "review_6951",
+        "user_name": "user_9759",
+        "foot_type_category": "20",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_8447",
+        "user_name": "user_7411",
+        "foot_type_category": "20",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_60",
+    "shoe_type_category": "20",
+    "fit_score": "96%",
+    "length": 23.9,
+    "width": 8.5,
+    "instep_height": 7.0,
+    "arch_height": 2.1,
+    "heel_width": 6.7,
+    "score": 4.5,
+    "community_number": 782,
+    "comment_number": 11,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 37",
+    "colors": ["#2af784", "#b7389a", "#627fa8", "#548993"],
+    "review": [
+      {
+        "review_id": "review_876",
+        "user_name": "user_3762",
+        "foot_type_category": "20",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_6569",
+        "user_name": "user_9317",
+        "foot_type_category": "20",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_8052",
+        "user_name": "user_6506",
+        "foot_type_category": "20",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_61",
+    "shoe_type_category": "21",
+    "fit_score": "95%",
+    "length": 24.2,
+    "width": 11.8,
+    "instep_height": 6.6,
+    "arch_height": 4.3,
+    "heel_width": 8.0,
+    "score": 4.7,
+    "community_number": 115,
+    "comment_number": 92,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 95",
+    "colors": ["#542c69", "#2579b0", "#c781a6", "#a01878"],
+    "review": [
+      {
+        "review_id": "review_8555",
+        "user_name": "user_1521",
+        "foot_type_category": "21",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_8686",
+        "user_name": "user_5065",
+        "foot_type_category": "21",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_2933",
+        "user_name": "user_1076",
+        "foot_type_category": "21",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_62",
+    "shoe_type_category": "21",
+    "fit_score": "98%",
+    "length": 28.3,
+    "width": 12.8,
+    "instep_height": 6.5,
+    "arch_height": 3.8,
+    "heel_width": 8.6,
+    "score": 4.4,
+    "community_number": 339,
+    "comment_number": 83,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 7",
+    "colors": ["#bbb8b7", "#52a802", "#e4a618", "#e3bc9f"],
+    "review": [
+      {
+        "review_id": "review_9900",
+        "user_name": "user_8842",
+        "foot_type_category": "21",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_6168",
+        "user_name": "user_8842",
+        "foot_type_category": "21",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_8731",
+        "user_name": "user_1678",
+        "foot_type_category": "21",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_63",
+    "shoe_type_category": "21",
+    "fit_score": "94%",
+    "length": 23.7,
+    "width": 8.3,
+    "instep_height": 7.1,
+    "arch_height": 3.2,
+    "heel_width": 8.8,
+    "score": 4.9,
+    "community_number": 376,
+    "comment_number": 43,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 32",
+    "colors": ["#02a7c7", "#60bd4a", "#2c54bf", "#df6031"],
+    "review": [
+      {
+        "review_id": "review_2735",
+        "user_name": "user_3934",
+        "foot_type_category": "21",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_6289",
+        "user_name": "user_1089",
+        "foot_type_category": "21",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_2536",
+        "user_name": "user_389",
+        "foot_type_category": "21",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_64",
+    "shoe_type_category": "22",
+    "fit_score": "94%",
+    "length": 23.2,
+    "width": 11.8,
+    "instep_height": 6.0,
+    "arch_height": 3.4,
+    "heel_width": 8.4,
+    "score": 5.0,
+    "community_number": 427,
+    "comment_number": 86,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 94",
+    "colors": ["#a250ab", "#ebdb93", "#1dcc0d", "#8c6fc0"],
+    "review": [
+      {
+        "review_id": "review_4284",
+        "user_name": "user_272",
+        "foot_type_category": "22",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      },
+      {
+        "review_id": "review_1495",
+        "user_name": "user_1259",
+        "foot_type_category": "22",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      },
+      {
+        "review_id": "review_8178",
+        "user_name": "user_9662",
+        "foot_type_category": "22",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_65",
+    "shoe_type_category": "22",
+    "fit_score": "99%",
+    "length": 24.3,
+    "width": 13.9,
+    "instep_height": 7.0,
+    "arch_height": 3.8,
+    "heel_width": 9.7,
+    "score": 4.4,
+    "community_number": 457,
+    "comment_number": 27,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 50",
+    "colors": ["#f4719e", "#9a0678", "#e1f0e5", "#ff3dfa"],
+    "review": [
+      {
+        "review_id": "review_4331",
+        "user_name": "user_6019",
+        "foot_type_category": "22",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_118",
+        "user_name": "user_9688",
+        "foot_type_category": "22",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_5853",
+        "user_name": "user_3203",
+        "foot_type_category": "22",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_66",
+    "shoe_type_category": "22",
+    "fit_score": "91%",
+    "length": 22.3,
+    "width": 10.3,
+    "instep_height": 6.7,
+    "arch_height": 2.0,
+    "heel_width": 7.8,
+    "score": 4.4,
+    "community_number": 893,
+    "comment_number": 67,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 90",
+    "colors": ["#3df423", "#5ca209", "#722f1f", "#7bc982"],
+    "review": [
+      {
+        "review_id": "review_9093",
+        "user_name": "user_6324",
+        "foot_type_category": "22",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_3543",
+        "user_name": "user_9292",
+        "foot_type_category": "22",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_3312",
+        "user_name": "user_1342",
+        "foot_type_category": "22",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_67",
+    "shoe_type_category": "23",
+    "fit_score": "93%",
+    "length": 22.7,
+    "width": 10.2,
+    "instep_height": 7.1,
+    "arch_height": 1.7,
+    "heel_width": 8.7,
+    "score": 4.0,
+    "community_number": 339,
+    "comment_number": 71,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 19",
+    "colors": ["#cdd732", "#3bf0e9", "#5be51b", "#7ee8e3"],
+    "review": [
+      {
+        "review_id": "review_3741",
+        "user_name": "user_7860",
+        "foot_type_category": "23",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_3574",
+        "user_name": "user_9069",
+        "foot_type_category": "23",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_9137",
+        "user_name": "user_4564",
+        "foot_type_category": "23",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_68",
+    "shoe_type_category": "23",
+    "fit_score": "95%",
+    "length": 22.2,
+    "width": 12.3,
+    "instep_height": 6.3,
+    "arch_height": 4.6,
+    "heel_width": 7.8,
+    "score": 4.0,
+    "community_number": 754,
+    "comment_number": 65,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 41",
+    "colors": ["#195230", "#ea8126", "#cff2fd", "#f36d9c"],
+    "review": [
+      {
+        "review_id": "review_8435",
+        "user_name": "user_38",
+        "foot_type_category": "23",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      },
+      {
+        "review_id": "review_3168",
+        "user_name": "user_8619",
+        "foot_type_category": "23",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_6362",
+        "user_name": "user_5921",
+        "foot_type_category": "23",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_69",
+    "shoe_type_category": "23",
+    "fit_score": "100%",
+    "length": 23.7,
+    "width": 9.1,
+    "instep_height": 7.3,
+    "arch_height": 1.8,
+    "heel_width": 7.0,
+    "score": 4.8,
+    "community_number": 702,
+    "comment_number": 23,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 99",
+    "colors": ["#2679d5", "#0421bd", "#684614", "#9ffa96"],
+    "review": [
+      {
+        "review_id": "review_4899",
+        "user_name": "user_9197",
+        "foot_type_category": "23",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_8686",
+        "user_name": "user_9411",
+        "foot_type_category": "23",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_9256",
+        "user_name": "user_7349",
+        "foot_type_category": "23",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_70",
+    "shoe_type_category": "24",
+    "fit_score": "96%",
+    "length": 22.9,
+    "width": 12.2,
+    "instep_height": 5.1,
+    "arch_height": 4.3,
+    "heel_width": 9.8,
+    "score": 4.6,
+    "community_number": 124,
+    "comment_number": 98,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 64",
+    "colors": ["#1530ef", "#916ab8", "#de1713", "#03b699"],
+    "review": [
+      {
+        "review_id": "review_8407",
+        "user_name": "user_1067",
+        "foot_type_category": "24",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_1888",
+        "user_name": "user_5144",
+        "foot_type_category": "24",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_3002",
+        "user_name": "user_9922",
+        "foot_type_category": "24",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_71",
+    "shoe_type_category": "24",
+    "fit_score": "92%",
+    "length": 24.5,
+    "width": 13.8,
+    "instep_height": 7.7,
+    "arch_height": 2.3,
+    "heel_width": 6.8,
+    "score": 4.1,
+    "community_number": 391,
+    "comment_number": 15,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 31",
+    "colors": ["#49ab44", "#142678", "#fdfb2e", "#99f9bf"],
+    "review": [
+      {
+        "review_id": "review_801",
+        "user_name": "user_4193",
+        "foot_type_category": "24",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_5677",
+        "user_name": "user_1863",
+        "foot_type_category": "24",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_6356",
+        "user_name": "user_5280",
+        "foot_type_category": "24",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_72",
+    "shoe_type_category": "24",
+    "fit_score": "98%",
+    "length": 29.7,
+    "width": 9.5,
+    "instep_height": 6.8,
+    "arch_height": 2.8,
+    "heel_width": 6.4,
+    "score": 4.3,
+    "community_number": 747,
+    "comment_number": 92,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 27",
+    "colors": ["#7089a5", "#2fcc02", "#aba624", "#4435e6"],
+    "review": [
+      {
+        "review_id": "review_8989",
+        "user_name": "user_6726",
+        "foot_type_category": "24",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_1428",
+        "user_name": "user_7013",
+        "foot_type_category": "24",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_7956",
+        "user_name": "user_2612",
+        "foot_type_category": "24",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_73",
+    "shoe_type_category": "25",
+    "fit_score": "96%",
+    "length": 24.7,
+    "width": 13.1,
+    "instep_height": 7.2,
+    "arch_height": 2.2,
+    "heel_width": 9.6,
+    "score": 4.6,
+    "community_number": 112,
+    "comment_number": 37,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 42",
+    "colors": ["#ebe2a9", "#cd2c9e", "#7b2b6f", "#5d5818"],
+    "review": [
+      {
+        "review_id": "review_4147",
+        "user_name": "user_2313",
+        "foot_type_category": "25",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      },
+      {
+        "review_id": "review_7961",
+        "user_name": "user_3944",
+        "foot_type_category": "25",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_7623",
+        "user_name": "user_4158",
+        "foot_type_category": "25",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_74",
+    "shoe_type_category": "25",
+    "fit_score": "96%",
+    "length": 28.0,
+    "width": 10.1,
+    "instep_height": 6.3,
+    "arch_height": 4.8,
+    "heel_width": 7.2,
+    "score": 4.9,
+    "community_number": 676,
+    "comment_number": 44,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 74",
+    "colors": ["#681fcf", "#81e88d", "#f19e7d", "#a80900"],
+    "review": [
+      {
+        "review_id": "review_2775",
+        "user_name": "user_6952",
+        "foot_type_category": "25",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      },
+      {
+        "review_id": "review_5166",
+        "user_name": "user_59",
+        "foot_type_category": "25",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      },
+      {
+        "review_id": "review_3033",
+        "user_name": "user_1338",
+        "foot_type_category": "25",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_75",
+    "shoe_type_category": "25",
+    "fit_score": "91%",
+    "length": 28.7,
+    "width": 12.1,
+    "instep_height": 6.4,
+    "arch_height": 1.1,
+    "heel_width": 7.9,
+    "score": 4.7,
+    "community_number": 915,
+    "comment_number": 57,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 78",
+    "colors": ["#efe352", "#e265b5", "#e3f2a0", "#358d52"],
+    "review": [
+      {
+        "review_id": "review_9887",
+        "user_name": "user_1784",
+        "foot_type_category": "25",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_1212",
+        "user_name": "user_1930",
+        "foot_type_category": "25",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_753",
+        "user_name": "user_9961",
+        "foot_type_category": "25",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_76",
+    "shoe_type_category": "26",
+    "fit_score": "94%",
+    "length": 27.5,
+    "width": 8.1,
+    "instep_height": 5.5,
+    "arch_height": 2.8,
+    "heel_width": 8.6,
+    "score": 4.7,
+    "community_number": 946,
+    "comment_number": 17,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 1",
+    "colors": ["#9a120d", "#24a89f", "#b55210", "#514235"],
+    "review": [
+      {
+        "review_id": "review_6902",
+        "user_name": "user_182",
+        "foot_type_category": "26",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_1261",
+        "user_name": "user_2256",
+        "foot_type_category": "26",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_8088",
+        "user_name": "user_1285",
+        "foot_type_category": "26",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_77",
+    "shoe_type_category": "26",
+    "fit_score": "95%",
+    "length": 29.6,
+    "width": 11.1,
+    "instep_height": 5.8,
+    "arch_height": 2.7,
+    "heel_width": 6.2,
+    "score": 4.9,
+    "community_number": 299,
+    "comment_number": 23,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 66",
+    "colors": ["#fea67e", "#235f7b", "#83047f", "#c91b80"],
+    "review": [
+      {
+        "review_id": "review_6168",
+        "user_name": "user_626",
+        "foot_type_category": "26",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_9585",
+        "user_name": "user_3569",
+        "foot_type_category": "26",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_8409",
+        "user_name": "user_368",
+        "foot_type_category": "26",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_78",
+    "shoe_type_category": "26",
+    "fit_score": "96%",
+    "length": 23.5,
+    "width": 11.3,
+    "instep_height": 7.0,
+    "arch_height": 3.0,
+    "heel_width": 7.9,
+    "score": 4.1,
+    "community_number": 565,
+    "comment_number": 52,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 78",
+    "colors": ["#758a4e", "#5ff016", "#0d3559", "#2467f8"],
+    "review": [
+      {
+        "review_id": "review_5188",
+        "user_name": "user_1070",
+        "foot_type_category": "26",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_2010",
+        "user_name": "user_727",
+        "foot_type_category": "26",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_6037",
+        "user_name": "user_6521",
+        "foot_type_category": "26",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_79",
+    "shoe_type_category": "27",
+    "fit_score": "100%",
+    "length": 27.4,
+    "width": 12.1,
+    "instep_height": 5.5,
+    "arch_height": 1.2,
+    "heel_width": 8.3,
+    "score": 4.1,
+    "community_number": 223,
+    "comment_number": 48,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 39",
+    "colors": ["#eba3b1", "#13d6f5", "#01c030", "#c157e3"],
+    "review": [
+      {
+        "review_id": "review_8973",
+        "user_name": "user_7662",
+        "foot_type_category": "27",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_4778",
+        "user_name": "user_785",
+        "foot_type_category": "27",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      },
+      {
+        "review_id": "review_4892",
+        "user_name": "user_5606",
+        "foot_type_category": "27",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_80",
+    "shoe_type_category": "27",
+    "fit_score": "95%",
+    "length": 27.3,
+    "width": 13.3,
+    "instep_height": 6.8,
+    "arch_height": 3.4,
+    "heel_width": 8.4,
+    "score": 4.2,
+    "community_number": 277,
+    "comment_number": 94,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 27",
+    "colors": ["#9f6471", "#b2e1eb", "#b277c6", "#714ddf"],
+    "review": [
+      {
+        "review_id": "review_8467",
+        "user_name": "user_3524",
+        "foot_type_category": "27",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_1881",
+        "user_name": "user_7549",
+        "foot_type_category": "27",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_1673",
+        "user_name": "user_6746",
+        "foot_type_category": "27",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_81",
+    "shoe_type_category": "27",
+    "fit_score": "99%",
+    "length": 28.3,
+    "width": 10.1,
+    "instep_height": 7.3,
+    "arch_height": 3.5,
+    "heel_width": 7.0,
+    "score": 4.9,
+    "community_number": 672,
+    "comment_number": 78,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 8",
+    "colors": ["#754382", "#d73a94", "#b100f8", "#b185fe"],
+    "review": [
+      {
+        "review_id": "review_2569",
+        "user_name": "user_3289",
+        "foot_type_category": "27",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_2979",
+        "user_name": "user_6228",
+        "foot_type_category": "27",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      },
+      {
+        "review_id": "review_8186",
+        "user_name": "user_9761",
+        "foot_type_category": "27",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_82",
+    "shoe_type_category": "28",
+    "fit_score": "98%",
+    "length": 25.8,
+    "width": 10.3,
+    "instep_height": 6.4,
+    "arch_height": 2.2,
+    "heel_width": 6.8,
+    "score": 4.9,
+    "community_number": 127,
+    "comment_number": 44,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 43",
+    "colors": ["#cd07a8", "#aeb46a", "#5f9561", "#67d3aa"],
+    "review": [
+      {
+        "review_id": "review_9814",
+        "user_name": "user_3071",
+        "foot_type_category": "28",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_6774",
+        "user_name": "user_6430",
+        "foot_type_category": "28",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 5.0
+      },
+      {
+        "review_id": "review_4904",
+        "user_name": "user_6569",
+        "foot_type_category": "28",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_83",
+    "shoe_type_category": "28",
+    "fit_score": "93%",
+    "length": 24.9,
+    "width": 10.4,
+    "instep_height": 6.1,
+    "arch_height": 4.7,
+    "heel_width": 8.6,
+    "score": 4.3,
+    "community_number": 983,
+    "comment_number": 34,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 68",
+    "colors": ["#8be128", "#63078f", "#5d3005", "#e11245"],
+    "review": [
+      {
+        "review_id": "review_2626",
+        "user_name": "user_3502",
+        "foot_type_category": "28",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      },
+      {
+        "review_id": "review_4213",
+        "user_name": "user_6211",
+        "foot_type_category": "28",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_7289",
+        "user_name": "user_6476",
+        "foot_type_category": "28",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_84",
+    "shoe_type_category": "28",
+    "fit_score": "93%",
+    "length": 29.9,
+    "width": 11.8,
+    "instep_height": 7.5,
+    "arch_height": 2.3,
+    "heel_width": 8.6,
+    "score": 4.0,
+    "community_number": 684,
+    "comment_number": 63,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 36",
+    "colors": ["#ef9840", "#cdac92", "#b71045", "#1e5f4d"],
+    "review": [
+      {
+        "review_id": "review_9050",
+        "user_name": "user_1345",
+        "foot_type_category": "28",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_4566",
+        "user_name": "user_6092",
+        "foot_type_category": "28",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_5282",
+        "user_name": "user_4637",
+        "foot_type_category": "28",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_85",
+    "shoe_type_category": "29",
+    "fit_score": "93%",
+    "length": 27.5,
+    "width": 13.4,
+    "instep_height": 5.3,
+    "arch_height": 1.9,
+    "heel_width": 9.8,
+    "score": 4.0,
+    "community_number": 239,
+    "comment_number": 74,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 2",
+    "colors": ["#b01f10", "#d9ba3b", "#5122a0", "#54330b"],
+    "review": [
+      {
+        "review_id": "review_9733",
+        "user_name": "user_6120",
+        "foot_type_category": "29",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      },
+      {
+        "review_id": "review_6306",
+        "user_name": "user_7813",
+        "foot_type_category": "29",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      },
+      {
+        "review_id": "review_6188",
+        "user_name": "user_582",
+        "foot_type_category": "29",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_86",
+    "shoe_type_category": "29",
+    "fit_score": "92%",
+    "length": 23.7,
+    "width": 11.8,
+    "instep_height": 5.1,
+    "arch_height": 2.9,
+    "heel_width": 8.6,
+    "score": 4.6,
+    "community_number": 492,
+    "comment_number": 67,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 39",
+    "colors": ["#ed4aed", "#5698b5", "#3d4024", "#38940e"],
+    "review": [
+      {
+        "review_id": "review_890",
+        "user_name": "user_534",
+        "foot_type_category": "29",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      },
+      {
+        "review_id": "review_3018",
+        "user_name": "user_4535",
+        "foot_type_category": "29",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_2787",
+        "user_name": "user_6312",
+        "foot_type_category": "29",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_87",
+    "shoe_type_category": "29",
+    "fit_score": "93%",
+    "length": 26.5,
+    "width": 13.0,
+    "instep_height": 6.7,
+    "arch_height": 3.5,
+    "heel_width": 8.5,
+    "score": 4.8,
+    "community_number": 282,
+    "comment_number": 49,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 51",
+    "colors": ["#01f9b6", "#2163fe", "#8223c7", "#45d24d"],
+    "review": [
+      {
+        "review_id": "review_2813",
+        "user_name": "user_9873",
+        "foot_type_category": "29",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_2275",
+        "user_name": "user_4166",
+        "foot_type_category": "29",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_2515",
+        "user_name": "user_7826",
+        "foot_type_category": "29",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_88",
+    "shoe_type_category": "30",
+    "fit_score": "97%",
+    "length": 26.7,
+    "width": 8.9,
+    "instep_height": 7.9,
+    "arch_height": 1.7,
+    "heel_width": 8.5,
+    "score": 4.9,
+    "community_number": 142,
+    "comment_number": 27,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 3",
+    "colors": ["#236071", "#023465", "#cb0047", "#88300b"],
+    "review": [
+      {
+        "review_id": "review_7118",
+        "user_name": "user_9437",
+        "foot_type_category": "30",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_6299",
+        "user_name": "user_2205",
+        "foot_type_category": "30",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_193",
+        "user_name": "user_2334",
+        "foot_type_category": "30",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_89",
+    "shoe_type_category": "30",
+    "fit_score": "97%",
+    "length": 26.0,
+    "width": 8.7,
+    "instep_height": 5.9,
+    "arch_height": 1.1,
+    "heel_width": 7.8,
+    "score": 4.5,
+    "community_number": 743,
+    "comment_number": 12,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 75",
+    "colors": ["#699c80", "#2ea359", "#cfaa63", "#758b95"],
+    "review": [
+      {
+        "review_id": "review_4006",
+        "user_name": "user_3458",
+        "foot_type_category": "30",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_4745",
+        "user_name": "user_7845",
+        "foot_type_category": "30",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      },
+      {
+        "review_id": "review_4910",
+        "user_name": "user_3874",
+        "foot_type_category": "30",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_90",
+    "shoe_type_category": "30",
+    "fit_score": "95%",
+    "length": 22.3,
+    "width": 8.3,
+    "instep_height": 7.1,
+    "arch_height": 2.7,
+    "heel_width": 9.8,
+    "score": 5.0,
+    "community_number": 789,
+    "comment_number": 71,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 12",
+    "colors": ["#b4611a", "#6ebc55", "#02b2a9", "#0dae5d"],
+    "review": [
+      {
+        "review_id": "review_502",
+        "user_name": "user_2251",
+        "foot_type_category": "30",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_169",
+        "user_name": "user_4479",
+        "foot_type_category": "30",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_2070",
+        "user_name": "user_799",
+        "foot_type_category": "30",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_91",
+    "shoe_type_category": "31",
+    "fit_score": "96%",
+    "length": 26.3,
+    "width": 8.3,
+    "instep_height": 6.0,
+    "arch_height": 2.7,
+    "heel_width": 9.1,
+    "score": 5.0,
+    "community_number": 914,
+    "comment_number": 28,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 73",
+    "colors": ["#dbc802", "#49251e", "#567bcc", "#e12eb8"],
+    "review": [
+      {
+        "review_id": "review_584",
+        "user_name": "user_2318",
+        "foot_type_category": "31",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_8244",
+        "user_name": "user_2668",
+        "foot_type_category": "31",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_4215",
+        "user_name": "user_7464",
+        "foot_type_category": "31",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_92",
+    "shoe_type_category": "31",
+    "fit_score": "98%",
+    "length": 25.2,
+    "width": 10.3,
+    "instep_height": 5.9,
+    "arch_height": 3.0,
+    "heel_width": 7.3,
+    "score": 4.2,
+    "community_number": 386,
+    "comment_number": 95,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 14",
+    "colors": ["#49d0f1", "#a085ea", "#8644bc", "#30bdd0"],
+    "review": [
+      {
+        "review_id": "review_4454",
+        "user_name": "user_1279",
+        "foot_type_category": "31",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      },
+      {
+        "review_id": "review_4430",
+        "user_name": "user_609",
+        "foot_type_category": "31",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_3524",
+        "user_name": "user_5377",
+        "foot_type_category": "31",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_93",
+    "shoe_type_category": "31",
+    "fit_score": "95%",
+    "length": 23.2,
+    "width": 10.1,
+    "instep_height": 5.4,
+    "arch_height": 1.0,
+    "heel_width": 9.6,
+    "score": 4.9,
+    "community_number": 458,
+    "comment_number": 58,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 10",
+    "colors": ["#6735f3", "#d2c5a3", "#cc0098", "#0a5c6b"],
+    "review": [
+      {
+        "review_id": "review_1742",
+        "user_name": "user_1209",
+        "foot_type_category": "31",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_2326",
+        "user_name": "user_3595",
+        "foot_type_category": "31",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_871",
+        "user_name": "user_4506",
+        "foot_type_category": "31",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_94",
+    "shoe_type_category": "32",
+    "fit_score": "91%",
+    "length": 27.1,
+    "width": 9.3,
+    "instep_height": 7.1,
+    "arch_height": 4.0,
+    "heel_width": 7.5,
+    "score": 4.0,
+    "community_number": 770,
+    "comment_number": 49,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 19",
+    "colors": ["#34c312", "#fbd786", "#5e84cb", "#586ad3"],
+    "review": [
+      {
+        "review_id": "review_4237",
+        "user_name": "user_3165",
+        "foot_type_category": "32",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      },
+      {
+        "review_id": "review_8166",
+        "user_name": "user_7608",
+        "foot_type_category": "32",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_1871",
+        "user_name": "user_8048",
+        "foot_type_category": "32",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_95",
+    "shoe_type_category": "32",
+    "fit_score": "98%",
+    "length": 23.6,
+    "width": 13.2,
+    "instep_height": 7.4,
+    "arch_height": 1.9,
+    "heel_width": 7.0,
+    "score": 4.3,
+    "community_number": 107,
+    "comment_number": 56,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 71",
+    "colors": ["#2fe147", "#0440cf", "#acbede", "#0ad150"],
+    "review": [
+      {
+        "review_id": "review_2032",
+        "user_name": "user_7970",
+        "foot_type_category": "32",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_1069",
+        "user_name": "user_3091",
+        "foot_type_category": "32",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_9239",
+        "user_name": "user_9291",
+        "foot_type_category": "32",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_96",
+    "shoe_type_category": "32",
+    "fit_score": "97%",
+    "length": 23.5,
+    "width": 11.9,
+    "instep_height": 5.4,
+    "arch_height": 4.4,
+    "heel_width": 9.2,
+    "score": 4.8,
+    "community_number": 130,
+    "comment_number": 46,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 82",
+    "colors": ["#57d3e8", "#7cf4df", "#20071b", "#9fcb4a"],
+    "review": [
+      {
+        "review_id": "review_2591",
+        "user_name": "user_2866",
+        "foot_type_category": "32",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_7547",
+        "user_name": "user_4857",
+        "foot_type_category": "32",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_9874",
+        "user_name": "user_7725",
+        "foot_type_category": "32",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_97",
+    "shoe_type_category": "33",
+    "fit_score": "94%",
+    "length": 25.9,
+    "width": 10.5,
+    "instep_height": 7.0,
+    "arch_height": 3.3,
+    "heel_width": 7.2,
+    "score": 4.2,
+    "community_number": 848,
+    "comment_number": 15,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 8",
+    "colors": ["#de945c", "#f37cc2", "#5ed66a", "#9b9814"],
+    "review": [
+      {
+        "review_id": "review_8366",
+        "user_name": "user_973",
+        "foot_type_category": "33",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_6927",
+        "user_name": "user_1255",
+        "foot_type_category": "33",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_6426",
+        "user_name": "user_1221",
+        "foot_type_category": "33",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_98",
+    "shoe_type_category": "33",
+    "fit_score": "100%",
+    "length": 26.2,
+    "width": 8.8,
+    "instep_height": 7.3,
+    "arch_height": 2.0,
+    "heel_width": 6.1,
+    "score": 4.1,
+    "community_number": 181,
+    "comment_number": 100,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 73",
+    "colors": ["#909d34", "#a1566d", "#a94941", "#aa35eb"],
+    "review": [
+      {
+        "review_id": "review_9164",
+        "user_name": "user_9918",
+        "foot_type_category": "33",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_7314",
+        "user_name": "user_204",
+        "foot_type_category": "33",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.2
+      },
+      {
+        "review_id": "review_5265",
+        "user_name": "user_3753",
+        "foot_type_category": "33",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_99",
+    "shoe_type_category": "33",
+    "fit_score": "98%",
+    "length": 28.1,
+    "width": 9.4,
+    "instep_height": 5.4,
+    "arch_height": 1.1,
+    "heel_width": 8.7,
+    "score": 4.1,
+    "community_number": 350,
+    "comment_number": 100,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 61",
+    "colors": ["#189990", "#0a3bed", "#45c761", "#da9150"],
+    "review": [
+      {
+        "review_id": "review_468",
+        "user_name": "user_315",
+        "foot_type_category": "33",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      },
+      {
+        "review_id": "review_4980",
+        "user_name": "user_6221",
+        "foot_type_category": "33",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_1641",
+        "user_name": "user_1307",
+        "foot_type_category": "33",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_100",
+    "shoe_type_category": "34",
+    "fit_score": "95%",
+    "length": 25.8,
+    "width": 12.6,
+    "instep_height": 5.7,
+    "arch_height": 3.6,
+    "heel_width": 8.0,
+    "score": 4.4,
+    "community_number": 854,
+    "comment_number": 14,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 43",
+    "colors": ["#8169c5", "#b69e9a", "#83ec3e", "#58620d"],
+    "review": [
+      {
+        "review_id": "review_8533",
+        "user_name": "user_3910",
+        "foot_type_category": "34",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_6288",
+        "user_name": "user_3245",
+        "foot_type_category": "34",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 5.0
+      },
+      {
+        "review_id": "review_3209",
+        "user_name": "user_5040",
+        "foot_type_category": "34",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_101",
+    "shoe_type_category": "34",
+    "fit_score": "94%",
+    "length": 28.5,
+    "width": 10.8,
+    "instep_height": 6.6,
+    "arch_height": 3.9,
+    "heel_width": 6.4,
+    "score": 4.6,
+    "community_number": 278,
+    "comment_number": 18,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 27",
+    "colors": ["#05b67e", "#8bb20c", "#0570e4", "#99e0b9"],
+    "review": [
+      {
+        "review_id": "review_4858",
+        "user_name": "user_7247",
+        "foot_type_category": "34",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      },
+      {
+        "review_id": "review_3604",
+        "user_name": "user_2378",
+        "foot_type_category": "34",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_9477",
+        "user_name": "user_7622",
+        "foot_type_category": "34",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_102",
+    "shoe_type_category": "34",
+    "fit_score": "100%",
+    "length": 23.6,
+    "width": 8.3,
+    "instep_height": 6.5,
+    "arch_height": 3.6,
+    "heel_width": 8.9,
+    "score": 4.0,
+    "community_number": 884,
+    "comment_number": 78,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 17",
+    "colors": ["#05835b", "#7097fb", "#a11245", "#b50612"],
+    "review": [
+      {
+        "review_id": "review_5151",
+        "user_name": "user_7455",
+        "foot_type_category": "34",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      },
+      {
+        "review_id": "review_3585",
+        "user_name": "user_4664",
+        "foot_type_category": "34",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "review_id": "review_4783",
+        "user_name": "user_2436",
+        "foot_type_category": "34",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_103",
+    "shoe_type_category": "35",
+    "fit_score": "96%",
+    "length": 22.7,
+    "width": 8.2,
+    "instep_height": 7.5,
+    "arch_height": 3.9,
+    "heel_width": 9.7,
+    "score": 4.1,
+    "community_number": 203,
+    "comment_number": 97,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 13",
+    "colors": ["#aaa9eb", "#c8fb88", "#40c21a", "#9ca89b"],
+    "review": [
+      {
+        "review_id": "review_4975",
+        "user_name": "user_2134",
+        "foot_type_category": "35",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      },
+      {
+        "review_id": "review_8571",
+        "user_name": "user_7831",
+        "foot_type_category": "35",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      },
+      {
+        "review_id": "review_9429",
+        "user_name": "user_3649",
+        "foot_type_category": "35",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_104",
+    "shoe_type_category": "35",
+    "fit_score": "94%",
+    "length": 26.0,
+    "width": 9.0,
+    "instep_height": 7.8,
+    "arch_height": 4.0,
+    "heel_width": 8.1,
+    "score": 4.4,
+    "community_number": 510,
+    "comment_number": 92,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 27",
+    "colors": ["#c4c90e", "#628ce5", "#362c65", "#50f50a"],
+    "review": [
+      {
+        "review_id": "review_4712",
+        "user_name": "user_5647",
+        "foot_type_category": "35",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.8
+      },
+      {
+        "review_id": "review_6204",
+        "user_name": "user_518",
+        "foot_type_category": "35",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.7
+      },
+      {
+        "review_id": "review_7858",
+        "user_name": "user_3080",
+        "foot_type_category": "35",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_105",
+    "shoe_type_category": "35",
+    "fit_score": "93%",
+    "length": 25.8,
+    "width": 13.6,
+    "instep_height": 7.0,
+    "arch_height": 2.9,
+    "heel_width": 8.8,
+    "score": 4.8,
+    "community_number": 125,
+    "comment_number": 26,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 15",
+    "colors": ["#a913e9", "#0eb47d", "#a5ecaf", "#4387a9"],
+    "review": [
+      {
+        "review_id": "review_2249",
+        "user_name": "user_4105",
+        "foot_type_category": "35",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_6458",
+        "user_name": "user_2685",
+        "foot_type_category": "35",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      },
+      {
+        "review_id": "review_132",
+        "user_name": "user_1354",
+        "foot_type_category": "35",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_106",
+    "shoe_type_category": "36",
+    "fit_score": "94%",
+    "length": 26.5,
+    "width": 11.9,
+    "instep_height": 8.0,
+    "arch_height": 1.6,
+    "heel_width": 8.8,
+    "score": 4.4,
+    "community_number": 598,
+    "comment_number": 62,
+    "shoe_image": "../assets/images/Recommendation_Page/ShoeNike.svg",
+    "brand": "Nike",
+    "logo": "../../assets/logo/nike.png",
+    "model": "Nike Model 4",
+    "colors": ["#bb54f5", "#73ee71", "#a6a912", "#92ecd4"],
+    "review": [
+      {
+        "review_id": "review_7203",
+        "user_name": "user_4959",
+        "foot_type_category": "36",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      },
+      {
+        "review_id": "review_8563",
+        "user_name": "user_2720",
+        "foot_type_category": "36",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      },
+      {
+        "review_id": "review_9975",
+        "user_name": "user_7922",
+        "foot_type_category": "36",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_107",
+    "shoe_type_category": "36",
+    "fit_score": "97%",
+    "length": 27.3,
+    "width": 9.7,
+    "instep_height": 5.1,
+    "arch_height": 4.4,
+    "heel_width": 9.0,
+    "score": 4.4,
+    "community_number": 309,
+    "comment_number": 20,
+    "shoe_image": "https://asset.cloudinary.com/dejfn9jep/403c59f94e5841027ccb06eb7ec03bee",
+    "brand": "Adidas",
+    "logo": "../../assets/logo/adidas.png",
+    "model": "Adidas Model 57",
+    "colors": ["#7daa29", "#3381d0", "#a34f72", "#8a0747"],
+    "review": [
+      {
+        "review_id": "review_3654",
+        "user_name": "user_9918",
+        "foot_type_category": "36",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.4
+      },
+      {
+        "review_id": "review_8103",
+        "user_name": "user_2101",
+        "foot_type_category": "36",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 5.0
+      },
+      {
+        "review_id": "review_8204",
+        "user_name": "user_2034",
+        "foot_type_category": "36",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "shoe_id": "shoe_108",
+    "shoe_type_category": "36",
+    "fit_score": "97%",
+    "length": 25.1,
+    "width": 8.3,
+    "instep_height": 5.4,
+    "arch_height": 2.0,
+    "heel_width": 8.6,
+    "score": 4.5,
+    "community_number": 354,
+    "comment_number": 84,
+    "shoe_image": "../../assets/shoeimage/lululemon.png",
+    "brand": "LuluLemon",
+    "logo": "../../assets/logo/lululemon.png",
+    "model": "LuluLemon Model 82",
+    "colors": ["#727ad5", "#efb48c", "#8433cb", "#bdb34d"],
+    "review": [
+      {
+        "review_id": "review_9191",
+        "user_name": "user_7044",
+        "foot_type_category": "36",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_5434",
+        "user_name": "user_7717",
+        "foot_type_category": "36",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 4.5
+      },
+      {
+        "review_id": "review_1864",
+        "user_name": "user_967",
+        "foot_type_category": "36",
+        "review_content": "This shoe offers great support and comfort for long walks. Highly recommended!",
+        "rating": 5.0
+      }
+    ]
+  }
+]

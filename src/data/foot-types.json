@@ -1,0 +1,218 @@
+[
+    {
+        "category": "1",
+        "arch": "high",
+        "volume": "high",
+        "shape": "narrow"
+    },
+    {
+        "category": "2",
+        "arch": "high",
+        "volume": "high",
+        "shape": "medium"
+    },
+    {
+        "category": "3",
+        "arch": "high",
+        "volume": "high",
+        "shape": "wide"
+    },
+    {
+        "category": "4",
+        "arch": "high",
+        "volume": "medium",
+        "shape": "narrow"
+    },
+    {
+        "category": "5",
+        "arch": "high",
+        "volume": "medium",
+        "shape": "medium"
+    },
+    {
+        "category": "6",
+        "arch": "high",
+        "volume": "medium",
+        "shape": "wide"
+    },
+    {
+        "category": "7",
+        "arch": "high",
+        "volume": "low",
+        "shape": "narrow"
+    },
+    {
+        "category": "8",
+        "arch": "high",
+        "volume": "low",
+        "shape": "medium"
+    },
+    {
+        "category": "9",
+        "arch": "high",
+        "volume": "low",
+        "shape": "wide"
+    },
+    {
+        "category": "10",
+        "arch": "normal",
+        "volume": "high",
+        "shape": "narrow"
+    },
+    {
+        "category": "11",
+        "arch": "normal",
+        "volume": "high",
+        "shape": "medium"
+    },
+    {
+        "category": "12",
+        "arch": "normal",
+        "volume": "high",
+        "shape": "wide"
+    },
+    {
+        "category": "13",
+        "arch": "normal",
+        "volume": "medium",
+        "shape": "narrow"
+    },
+    {
+        "category": "14",
+        "arch": "normal",
+        "volume": "medium",
+        "shape": "medium"
+    },
+    {
+        "category": "15",
+        "arch": "normal",
+        "volume": "medium",
+        "shape": "wide"
+    },
+    {
+        "category": "16",
+        "arch": "normal",
+        "volume": "low",
+        "shape": "narrow"
+    },
+    {
+        "category": "17",
+        "arch": "normal",
+        "volume": "low",
+        "shape": "medium"
+    },
+    {
+        "category": "18",
+        "arch": "normal",
+        "volume": "low",
+        "shape": "wide"
+    },
+    {
+        "category": "19",
+        "arch": "low",
+        "volume": "high",
+        "shape": "narrow"
+    },
+    {
+        "category": "20",
+        "arch": "low",
+        "volume": "high",
+        "shape": "medium"
+    },
+    {
+        "category": "21",
+        "arch": "low",
+        "volume": "high",
+        "shape": "wide"
+    },
+    {
+        "category": "22",
+        "arch": "low",
+        "volume": "medium",
+        "shape": "narrow"
+    },
+    {
+        "category": "23",
+        "arch": "low",
+        "volume": "medium",
+        "shape": "medium"
+    },
+    {
+        "category": "24",
+        "arch": "low",
+        "volume": "medium",
+        "shape": "wide"
+    },
+    {
+        "category": "25",
+        "arch": "low",
+        "volume": "low",
+        "shape": "narrow"
+    },
+    {
+        "category": "26",
+        "arch": "low",
+        "volume": "low",
+        "shape": "medium"
+    },
+    {
+        "category": "27",
+        "arch": "low",
+        "volume": "low",
+        "shape": "wide"
+    },
+    {
+        "category": "28",
+        "arch": "fallen",
+        "volume": "high",
+        "shape": "narrow"
+    },
+    {
+        "category": "29",
+        "arch": "fallen",
+        "volume": "high",
+        "shape": "medium"
+    },
+    {
+        "category": "30",
+        "arch": "fallen",
+        "volume": "high",
+        "shape": "wide"
+    },
+    {
+        "category": "31",
+        "arch": "fallen",
+        "volume": "medium",
+        "shape": "narrow"
+    },
+    {
+        "category": "32",
+        "arch": "fallen",
+        "volume": "medium",
+        "shape": "medium"
+    },
+    {
+        "category": "33",
+        "arch": "fallen",
+        "volume": "medium",
+        "shape": "wide"
+    },
+    {
+        "category": "34",
+        "arch": "fallen",
+        "volume": "low",
+        "shape": "narrow"
+    },
+    {
+        "category": "35",
+        "arch": "fallen",
+        "volume": "low",
+        "shape": "medium"
+    },
+    {
+        "category": "36",
+        "arch": "fallen",
+        "volume": "low",
+        "shape": "wide"
+    }
+]
